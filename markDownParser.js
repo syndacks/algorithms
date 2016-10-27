@@ -1,10 +1,10 @@
 var mainObject = {
-  mainString = ""
-  headerCount = 0
+  mainString: "",
+  headerCount: 0
 }
 
 // this is the string we want to parse
-var stringToParse = "#### hello"
+var stringToParse = "#### Dacks"
 
 // step 1 - determine if there are too many spaces before the #, based of docs, there can be between 1 and 4 spaces before the #
 function determinePreSpacing(line){
@@ -37,7 +37,13 @@ function determineIfHashtag(line){
   }
 }
 
-// step 4 - count the hashtags
+// phase 1 is the culmination of steps 1-3, above
+// phase1 checks to make sure that the leading white space and hashtag symbols is used
+// 
+var phase1 = determineIfHashtag(cleanExtraSpace(determinePreSpacing(stringToParse)));
+
+
+// step 4 - count the hashtags. If there are between 1 and 6 hashtags, the global object gets updated
 function processLineForHashtags(line){
 	var hashTagCount = 0;
 	while(line.charAt(0) === "#"){
@@ -53,53 +59,34 @@ function processLineForHashtags(line){
   }
 }
 
+
 // step 5 - split the hashtgs and header text, and determine if the hashtag section is correctly formatted
 function splitHashtagsAndHeaderText(line){
-  // split the hashtags and header where there is a space (" ") into part1 and part2
-  splitLineArray = line.split(" ");
+  // using phase1 as a starting point, split the hashtags and header where there is a space (" ") into part1 and part2
+  splitLineArray = phase1.split(" ");
   var arrayPart1 = splitLineArray[0]
   // isolate the last letter of part1, the header/hashtag section
   var lastLetter = arrayPart1.charAt(arrayPart1.length - 1)
   // then, determine if last letter of part1 is a hashtag. if not, return
   if(lastLetter !== "#"){
-    console.log("This is not a valide HTML header, please only use hashtags");
+    console.log("This is not a valid HTML header, please only use hashtags");
     return;
     } else {
       var headerText = splitLineArray[1];
+      // push mainString to main object
       mainObject.mainString = headerText;
+      return line;
     }
 }
 
-function outputHTML(line){
-  var headerHTML = "<h" + mainObject.headerCount + ">" + mainObject.mainString + "</h" + hashTagCount + ">";
+// phase 2 culimnates in checking to make sure that the parameters are correct, and, if they are, updates the global object with the corrent text and number of #
+var phase2 = splitHashtagsAndHeaderText(processLineForHashtags(phase1));
+
+// the last step is to output HTML with the correct use of <hx>TEXT</hx>
+function outputHTML(){
+  var headerHTML = "<h" + mainObject.headerCount + ">" + mainObject.mainString + "</h" + mainObject.headerCount + ">";
   return headerHTML;
   }
 
-// splitHashtagsAndHeaderText(stringToParse);
+console.log(outputHTML());
 
-// console.log(outputHTML(splitHashtagsAndHeaderText(processLineForHashtags(determinePreSpacing(stringToParse)))));
-
-
-function runAllFunctions (stringToParse){
-  function determinePreSpacing(line){
-    function cleanExtraSpace(line){
-      function splitLine(line){
-        function processLine(line){
-        }
-      }
-    }
-  }
-}
-
-// console.log(runAllFunctions(stringToParse));
-
-
-
-
-
-
-// // step 3 - split the hashtags and text into two seperate strings
-// function splitLine(line){
-//   line.split(" ");
-//   return line;
-// }
