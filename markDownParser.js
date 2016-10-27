@@ -1,10 +1,18 @@
-var mainObject = {
+// this is the string we want to parse
+var stringToParse = "YOUR STRING HERE";
+
+// this global object will keep track of the header title and level of header (h1, h2, h3 ... h6)
+var globalObject = {
+  // string that will go between <hx>mainString</hx>
   mainString: "",
+  // number that will be on x, <hx>mainString</hx>
   headerCount: 0
 }
 
-// this is the string we want to parse
-var stringToParse = "#### Dacks"
+// this parsing takes place in 2 phases, with each phase including multiple steps:
+  // phase1: step 1, step 2, step 3
+  // phase2: step 4, and step 5
+  // final output: step 6
 
 // step 1 - determine if there are too many spaces before the #, based of docs, there can be between 1 and 4 spaces before the #
 function determinePreSpacing(line){
@@ -55,7 +63,7 @@ function processLineForHashtags(line){
 		return;
 	} else {
 		//push hashTagCount to main object
-		mainObject.headerCount = hashTagCount;
+		globalObject.headerCount = hashTagCount;
   }
 }
 
@@ -74,7 +82,7 @@ function splitHashtagsAndHeaderText(line){
     } else {
       var headerText = splitLineArray[1];
       // push mainString to main object
-      mainObject.mainString = headerText;
+      globalObject.mainString = headerText;
       return line;
     }
 }
@@ -82,9 +90,9 @@ function splitHashtagsAndHeaderText(line){
 // phase 2 culimnates in checking to make sure that the parameters are correct, and, if they are, updates the global object with the corrent text and number of #
 var phase2 = splitHashtagsAndHeaderText(processLineForHashtags(phase1));
 
-// the last step is to output HTML with the correct use of <hx>TEXT</hx>
+// step 6 the last step is to output HTML with the correct use of <hx>TEXT</hx>
 function outputHTML(){
-  var headerHTML = "<h" + mainObject.headerCount + ">" + mainObject.mainString + "</h" + mainObject.headerCount + ">";
+  var headerHTML = "<h" + globalObject.headerCount + ">" + globalObject.mainString + "</h" + globalObject.headerCount + ">";
   return headerHTML;
   }
 
