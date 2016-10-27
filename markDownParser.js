@@ -1,3 +1,8 @@
+var mainObject = {
+  mainString = ""
+  headerCount = 0
+}
+
 // this is the string we want to parse
 var stringToParse = "#### hello"
 
@@ -38,14 +43,13 @@ function processLineForHashtags(line){
 	while(line.charAt(0) === "#"){
 		line = line.slice(1);
 		hashTagCount ++;
-		// console.log(line);
 	}
 	if(hashTagCount > 6){
 		console.log("There are too many hashtags, please reduce to at most 6.")
 		return;
 	} else {
-      return hashTagCount;
-      return line;
+		//push hashTagCount to main object
+		mainObject.headerCount = hashTagCount;
   }
 }
 
@@ -62,12 +66,12 @@ function splitHashtagsAndHeaderText(line){
     return;
     } else {
       var headerText = splitLineArray[1];
-      return headerText;
+      mainObject.mainString = headerText;
     }
 }
 
 function outputHTML(line){
-  var headerHTML = "<h" + hashTagCount + ">" + headerText + "</h" + hashTagCount + ">";
+  var headerHTML = "<h" + mainObject.headerCount + ">" + mainObject.mainString + "</h" + hashTagCount + ">";
   return headerHTML;
   }
 
