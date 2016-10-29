@@ -5,7 +5,13 @@ var markDownParser = (function () {
   var private = {};
 
   // this is the string we want to parse
-  var stringToParse = "YOUR STRING HERE";
+  var stringToParse = "### Dacks";
+
+  public.enterString = function(parseMe){
+    stringToParse = parseMe;
+  }
+
+
 
   // this global object will keep track of the header title and level of header (h1, h2, h3 ... h6)
   var globalObject = {
@@ -15,9 +21,9 @@ var markDownParser = (function () {
     headerCount: 0
   }
 
-  // this parsing takes place in 2 phases, with each phase including multiple steps:
+  // parsing takes place in 2 phases, with each phase including multiple steps:
     // phase1: step 1, step 2, step 3
-    // phase2: step 4, and step 5
+    // phase2: step 4 and step 5
     // final output: step 6
 
   // step 1 - determine if there are too many spaces before the #, based of docs, there can be between 1 and 4 spaces before the #
@@ -53,7 +59,7 @@ var markDownParser = (function () {
 
   // phase 1 is the culmination of steps 1-3, above
   // phase1 checks to make sure that the leading white space and hashtag symbols is used
-  // 
+
   var phase1 = determineIfHashtag(cleanExtraSpace(determinePreSpacing(stringToParse)));
 
 
@@ -104,5 +110,5 @@ var markDownParser = (function () {
 
   console.log(outputHTML());
 
-
+  return public;
 }());
