@@ -7,7 +7,7 @@ var specify = (function () {
 
     private.regex = {
 
-        // ids - any letter a-z multiple times, 
+        // ids
         b: /#[a-z]+/gi,
 
         // classes and attributes
@@ -79,7 +79,6 @@ var specify = (function () {
 	 *
 	 *  - it returns -1 if selector1 has a lower specificity than selector2
 	 *  - it returns 1 if selector1 has a higher specificity than selector2
-	 *  - it returns 0 if selector1 has the same specificity as selector2
 	 */
 
     public.compare = function (selector1, selector2) {

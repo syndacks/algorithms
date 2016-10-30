@@ -2,6 +2,7 @@
 // Return the sum of all the multiples of 3 and 5 below a given number
 //----------------------------
 
+
 var givenNumber = 10;
 
 // make empty arrays for multiples of 3 and 5 to be pushed to 
