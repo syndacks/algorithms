@@ -79,10 +79,10 @@ var specify = (function () {
 
     };
 
-    // compare two CSS selectors and determine which has higher specificity
-    // if second selector wins, returns -1
-    // if first selector wins, returns 1
-    // if they are equal weight, return 0
+    // compare two CSS selectors and determine which has higher specificity:
+	    // if first selector wins, returns 1
+	    // if second selector wins, returns -1
+	    // if they are equal weight, return 0
 
     public.compare = function (selector1, selector2) {
         var score1 = public.calculate(selector1).values;
@@ -108,11 +108,9 @@ var specify = (function () {
 	
 	return 0;
 
-
-
 	};
 
-    return public;
+return public;
     
  
 }());

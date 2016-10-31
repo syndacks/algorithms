@@ -133,7 +133,7 @@ var markDownParser = (function () {
         var headerHTML = "<h" + globalObject.headerCount + ">" + 
           globalObject.mainString + "</h" + globalObject.headerCount + ">";
         globalObject.convertedToHTML = headerHTML;
-        return;
+        return headerHTML;
       }
     }
  
