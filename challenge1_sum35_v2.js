@@ -2,44 +2,32 @@
 // Return the sum of all the multiples of 3 and 5 below a given number
 //----------------------------
 
-var challenge1 = (function(){
+var challenge1 = (function () {
 
 	var public = {};
 
 	public.calculate = function(givenNumber){
 
 		// make empty arrays for multiples of 3 and 5 to be pushed to 
-		var threesArray = [];
-		var fivesArray = [];
+		var matchedArray = [];
 
-		// find all the multiples of 3 below givenNumber and push to threesArray
-		for (var i = 1; i < givenNumber / 3; i++){
-			threesArray.push(i*3);
+		for (var i = 1; i < givenNumber; i++){
+			if(i%3 === 0 || i%5 === 0){
+				matchedArray.push(i);
+			}
 		}
 
-		// find all the multiples of 5 below givenNumber and push to fivesArray
-		for (var i = 1; i < givenNumber / 5; i++){
-			fivesArray.push(i*5);
-		}
-
-		//sum the threesArray
-		var threesCounter = 0;
-		threesArray.forEach(function summer(term){
-			threesCounter += term;
+		//sum the matchedArray
+		var counter = 0;
+		matchedArray.forEach(function summer(term){
+			counter += term;
 		})
 
-		//sum the fivesArray
-		var fivesCounter = 0;
-		fivesArray.forEach(function summer(term){
-			fivesCounter += term;
-		})
-
-		//add the threesCounter and fivesCounter together for final result
-		var finalResult = threesCounter + fivesCounter;
-
-		console.log(finalResult);
+		console.log(counter);
 	}
 
 return public;
 
 }());
+
+// challenge1.calculate(100)
