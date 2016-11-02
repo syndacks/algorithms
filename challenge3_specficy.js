@@ -2,12 +2,9 @@
 // Calculate the weights of two CSS selectors and determine which of them
 // will supersede the other
 //----------------------------
-
 var specify = (function () {
 
-	// pubic object that will get returned
-	var public    = {};
-    // private object for regex calculations
+
     var private   = {};
 
     private.regex = {
@@ -24,7 +21,7 @@ var specify = (function () {
     };
 
     // calculate method gets added to public
-    public.calculate = function (selector) {
+    calculate = function (selector) {
         //values is score
         var values = {a: 0,  b: 0,  c: 0,  d: 0};
         //if regeex matches
@@ -84,9 +81,9 @@ var specify = (function () {
 	    // if second selector wins, returns -1
 	    // if they are equal weight, return 0
 
-    public.compare = function (selector1, selector2) {
-        var score1 = public.calculate(selector1).values;
-        var score2 = public.calculate(selector2).values;
+    compare = function (selector1, selector2) {
+        var score1 = calculate(selector1).values;
+        var score2 = calculate(selector2).values;
         // map the Object keys into an array
         var score1Array = Object.keys(score1).map(function(key){
         	return score1[key];
@@ -99,22 +96,15 @@ var specify = (function () {
     for (i = 0; i < 4; i ++) {
 		if (score1Array[i] < score2Array[i]) {
 			console.log("The second selector wins!")
-			return -1;
+			return selector2;
 		} else if (score1Array[i] > score2Array[i]) {
 			console.log("The first selector wins!")
-			return 1;
-		}
+			return selector1;
+		} 
 	}
-	
-	return 0;
+	// if they are tied, send back most recent one
+	return selector2;
 
 	};
-
-return public;
-    
- 
+ return
 }());
-
-// specify.compare(".body", "#li")
-// specify.compare("#body", ".li")
-// specify.compare(".body", ".li")
