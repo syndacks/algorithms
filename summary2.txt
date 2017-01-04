@@ -1,0 +1,3193 @@
+---
+AppId: com.endlessm.animals.bn_BD
+Number of Categories: 7
+Category/Article data: 
+{ Amphibians: 17,
+  Birds: 57,
+  Insects: 43,
+  Mammals: 100,
+  'Marine Animals': 23,
+  Reptiles: 21,
+  Animals: 11 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.animals.en
+Number of Categories: 6
+Category/Article data: 
+{ Mammals: 92,
+  Birds: 29,
+  Reptiles: 20,
+  Amphibians: 17,
+  'Marine Animals': 19,
+  Insects: 29 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.animals.es
+Number of Categories: 6
+Category/Article data: 
+{ Insectos: 29,
+  'Mamíferos': 92,
+  Anfibios: 17,
+  Aves: 29,
+  'Animales marinos': 19,
+  Reptiles: 20 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.animals.es_GT
+Number of Categories: 7
+Category/Article data: 
+{ Insectos: 29,
+  'Mamíferos': 127,
+  Aves: 83,
+  Anfibios: 17,
+  'Animales marinos': 23,
+  Reptiles: 30,
+  'Animales marinos,Mamíferos': 5 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.animals.pt
+Number of Categories: 6
+Category/Article data: 
+{ Insetos: 26,
+  'Mamíferos': 84,
+  'Pássaros': 27,
+  'Anfíbios': 17,
+  'Animais Marinhos': 17,
+  'Répteis': 19 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.astronomy.en
+Number of Categories: 6
+Category/Article data: 
+{ 'Astronomical Objects': 35,
+  Astronomers: 49,
+  'History of Astronomy': 46,
+  'Instruments and Metrics': 45,
+  'Areas of Astronomy': 23,
+  'Astronomical Phenomena': 37 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.astronomy.es
+Number of Categories: 6
+Category/Article data: 
+{ 'Objetos astronómicos': 33,
+  'Astrónomos': 49,
+  'Instrumentos y métricas': 45,
+  'Fenómenos astronómicos': 37,
+  'Áreas de astronomía': 23,
+  'Historia de la astronomía': 44 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.astronomy.pt
+Number of Categories: 6
+Category/Article data: 
+{ 'Astrônomos': 44,
+  'Instrumentos e Métricas': 30,
+  'Fenômenos Astronômicos': 34,
+  'Objetos Astronômicos': 31,
+  'Áreas da Astronomia': 20,
+  'História da Astronomia': 31 }
+Template Type:!import 'A'
+
+---
+AppId: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Number of Categories: 9
+Category/Article data: 
+{ 'Class I': 3,
+  'Class II': 3,
+  'Class III': 9,
+  'Class IV': 9,
+  'Class V': 9,
+  'Class VI': 18,
+  'Class VII': 17,
+  'Class VIII': 18,
+  'Class IX & X': 13 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.biology.en
+Number of Categories: 14
+Category/Article data: 
+{ Environment: 112,
+  'Cells & Genetics': 59,
+  'Theories & Fields of Study ': 18,
+  'Environment,Life Forms ': 2,
+  'Life Forms ': 21,
+  'Environment,Theories & Fields of Study ': 3,
+  'Human Biology': 13,
+  'Cells & Genetics,Human Biology': 2,
+  'Environment,Human Biology': 1,
+  'Cells & Genetics,Theories & Fields of Study ': 2,
+  'Human Biology,Life Forms ': 1,
+  'Human Biology,Theories & Fields of Study ': 1,
+  'Cells & Genetics,Environment': 1,
+  'Life Forms ,Theories & Fields of Study ': 2 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.biology.es
+Number of Categories: 12
+Category/Article data: 
+{ 'El medio ambiente': 116,
+  'Área de estudio y teoría': 18,
+  'Células y genética': 59,
+  'Biologia humana,El medio ambiente': 1,
+  'El medio ambiente,Organismos': 2,
+  Organismos: 21,
+  'Biologia humana,Células y genética': 2,
+  'Biologia humana': 14,
+  'Células y genética,El medio ambiente': 1,
+  'Células y genética,Área de estudio y teoría': 2,
+  'Biologia humana,Organismos': 1,
+  'Organismos,Área de estudio y teoría': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.biology.pt
+Number of Categories: 14
+Category/Article data: 
+{ 'Teorias e Campos de Estudo ': 16,
+  Ambiente: 109,
+  'Células e Genética': 55,
+  'Ambiente,Formas de Vida ': 2,
+  'Formas de Vida ': 21,
+  'Ambiente,Teorias e Campos de Estudo ': 3,
+  'Biologia Humana,Células e Genética': 2,
+  'Biologia Humana': 13,
+  'Biologia Humana,Teorias e Campos de Estudo ': 1,
+  'Ambiente,Células e Genética': 1,
+  'Células e Genética,Teorias e Campos de Estudo ': 2,
+  'Biologia Humana,Formas de Vida ': 1,
+  'Formas de Vida ,Teorias e Campos de Estudo ': 2,
+  'Ambiente,Biologia Humana': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.capacitate_services.es
+Number of Categories: 97
+Category/Article data: 
+{ ServicioAlCliente_AseadorDeOficina: 1,
+  ServicioAlCliente_AseadorDeOficina_Nivel1_Leccion1: 2,
+  ServicioAlCliente_AseadorDeOficina_Nivel1_Leccion2: 6,
+  ServicioAlCliente_AseadorDeOficina_Nivel1_Leccion3: 3,
+  ServicioAlCliente_AseadorDeOficina_Nivel2_Leccion1: 9,
+  ServicioAlCliente_AseadorDeOficina_Nivel3_Leccion1: 3,
+  ServicioAlCliente_AseadorDeOficina_Nivel3_Leccion2: 2,
+  ServicioAlCliente_AseadorDeOficina_Nivel4_Leccion1: 2,
+  ServicioAlCliente_AseadorDeOficina_Nivel4_Leccion2: 2,
+  ServicioAlCliente_AseadorDeOficina_Nivel4_Leccion3: 3,
+  ServicioAlCliente_AsistenteDeMesero: 1,
+  ServicioAlCliente_AsistenteDeMesero_Nivel1_Leccion1: 3,
+  ServicioAlCliente_AsistenteDeMesero_Nivel2_Leccion1: 4,
+  ServicioAlCliente_AsistenteDeMesero_Nivel3_Leccion1: 2,
+  ServicioAlCliente_AsistenteDeMesero_Nivel4_Leccion1: 3,
+  ServicioAlCliente_Bartender: 1,
+  ServicioAlCliente_Bartender_Nivel1_Leccion1: 5,
+  ServicioAlCliente_Bartender_Nivel1_Leccion2: 4,
+  ServicioAlCliente_Bartender_Nivel1_Leccion3: 5,
+  ServicioAlCliente_Bartender_Nivel2_Leccion1: 6,
+  ServicioAlCliente_Bartender_Nivel2_Leccion2: 2,
+  ServicioAlCliente_Bartender_Nivel2_Leccion3: 4,
+  ServicioAlCliente_Bartender_Nivel2_Leccion4: 3,
+  ServicioAlCliente_Bartender_Nivel2_Leccion5: 2,
+  ServicioAlCliente_Bartender_Nivel3_Leccion1: 3,
+  ServicioAlCliente_Bartender_Nivel3_Leccion2: 2,
+  ServicioAlCliente_Bartender_Nivel4_Leccion1: 3,
+  ServicioAlCliente_CajeroDeRestaurante: 1,
+  ServicioAlCliente_CajeroDeRestaurante_Nivel1_Leccion1: 6,
+  ServicioAlCliente_CajeroDeRestaurante_Nivel2_Leccion1: 7,
+  ServicioAlCliente_CajeroDeRestaurante_Nivel3_Leccion1: 2,
+  ServicioAlCliente_CajeroDeRestaurante_Nivel4_Leccion1: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco: 1,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel1_Leccion1: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel1_Leccion2: 4,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel1_Leccion3: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel1_Leccion4: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel1_Leccion5: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel1_Leccion6: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel2_Leccion1: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel2_Leccion2: 6,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel2_Leccion3: 3,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel3_Leccion1: 2,
+  ServicioAlCliente_IntroduccionAlCajeroDeBanco_Nivel4_Leccion1: 2,
+  ServicioAlCliente_Lavaplatos: 1,
+  ServicioAlCliente_Lavaplatos_Nivel1_Leccion1: 2,
+  ServicioAlCliente_Lavaplatos_Nivel1_Leccion2: 3,
+  ServicioAlCliente_Lavaplatos_Nivel1_Leccion3: 2,
+  ServicioAlCliente_Lavaplatos_Nivel2_Leccion1: 3,
+  ServicioAlCliente_Lavaplatos_Nivel2_Leccion2: 3,
+  ServicioAlCliente_Lavaplatos_Nivel2_Leccion3: 2,
+  ServicioAlCliente_Lavaplatos_Nivel3_Leccion1: 2,
+  ServicioAlCliente_Lavaplatos_Nivel4_Leccion2: 2,
+  ServicioAlCliente_Mesero: 1,
+  ServicioAlCliente_Mesero_Nivel1_Leccion1: 6,
+  ServicioAlCliente_Mesero_Nivel1_Leccion2: 5,
+  ServicioAlCliente_Mesero_Nivel1_Leccion3: 4,
+  ServicioAlCliente_Mesero_Nivel2_Leccion1: 7,
+  ServicioAlCliente_Mesero_Nivel2_Leccion2: 8,
+  ServicioAlCliente_Mesero_Nivel2_Leccion3: 4,
+  ServicioAlCliente_Mesero_Nivel3_Leccion1: 4,
+  ServicioAlCliente_Mesero_Nivel3_Leccion2: 4,
+  ServicioAlCliente_Mesero_Nivel3_Leccion3: 4,
+  ServicioAlCliente_Mesero_Nivel3_Leccion4: 5,
+  ServicioAlCliente_Mesero_Nivel4_Leccion1: 8,
+  ServicioAlCliente_Mesero_Nivel4_Leccion2: 5,
+  ServicioAlCliente_Planchador: 1,
+  ServicioAlCliente_Planchador_Nivel1_Leccion1: 2,
+  ServicioAlCliente_Planchador_Nivel1_Leccion2: 5,
+  ServicioAlCliente_Planchador_Nivel1_Leccion3: 2,
+  ServicioAlCliente_Planchador_Nivel2_Leccion1: 2,
+  ServicioAlCliente_Planchador_Nivel2_Leccion2: 2,
+  ServicioAlCliente_Planchador_Nivel2_Leccion3: 3,
+  ServicioAlCliente_Planchador_Nivel2_Leccion4: 3,
+  ServicioAlCliente_Planchador_Nivel3_Leccion1: 4,
+  ServicioAlCliente_Planchador_Nivel4_Leccion1: 3,
+  ServicioAlCliente_Planchador_Nivel4_Leccion2: 3,
+  ServicioAlCliente_RepresentanteTelefonico: 1,
+  ServicioAlCliente_RepresentanteTelefonico_Nivel1_Leccion1: 6,
+  ServicioAlCliente_RepresentanteTelefonico_Nivel1_Leccion2: 7,
+  ServicioAlCliente_RepresentanteTelefonico_Nivel2_Leccion1: 7,
+  ServicioAlCliente_RepresentanteTelefonico_Nivel2_Leccion2: 5,
+  ServicioAlCliente_RepresentanteTelefonico_Nivel2_Leccion3: 4,
+  ServicioAlCliente_RepresentanteTelefonico_Nivel3_Leccion1: 4,
+  ServicioAlCliente_RepresentanteTelefonico_Nivel4_Leccion1: 3,
+  ServicioAlCliente_TrabajadorDomestico: 1,
+  ServicioAlCliente_TrabajadorDomestico_Nivel1_Leccion1: 5,
+  ServicioAlCliente_TrabajadorDomestico_Nivel1_Leccion2: 4,
+  ServicioAlCliente_TrabajadorDomestico_Nivel1_Leccion3: 3,
+  ServicioAlCliente_TrabajadorDomestico_Nivel2_Leccion1: 5,
+  ServicioAlCliente_TrabajadorDomestico_Nivel2_Leccion2: 6,
+  ServicioAlCliente_TrabajadorDomestico_Nivel2_Leccion3: 8,
+  ServicioAlCliente_TrabajadorDomestico_Nivel2_Leccion4: 3,
+  ServicioAlCliente_TrabajadorDomestico_Nivel2_Leccion5: 4,
+  ServicioAlCliente_TrabajadorDomestico_Nivel3_Leccion1: 5,
+  ServicioAlCliente_TrabajadorDomestico_Nivel4_Leccion1: 3,
+  ServicioAlCliente_TrabajadorDomestico_Nivel4_Leccion2: 4 }
+Template Type:!import 'course'
+
+---
+AppId: com.endlessm.capacitate_technology.es
+Number of Categories: 204
+Category/Article data: 
+{ Tecnologia_AdministradorDeBasesDeDatos: 1,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel1_Leccion1: 4,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel1_Leccion2: 5,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel2_Leccion1: 5,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel2_Leccion2: 4,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel2_Leccion3: 4,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel2_Leccion4: 6,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel3_Leccion1: 4,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel3_Leccion2: 4,
+  Tecnologia_AdministradorDeBasesDeDatos_Nivel4_Leccion1: 4,
+  Tecnologia_AdministradorDeServidores: 1,
+  Tecnologia_AdministradorDeServidores_Nivel1_Leccion1: 2,
+  Tecnologia_AdministradorDeServidores_Nivel1_Leccion2: 7,
+  Tecnologia_AdministradorDeServidores_Nivel2_Leccion1: 6,
+  Tecnologia_AdministradorDeServidores_Nivel2_Leccion2: 6,
+  Tecnologia_AdministradorDeServidores_Nivel2_Leccion3: 5,
+  Tecnologia_AdministradorDeServidores_Nivel2_Leccion4: 4,
+  Tecnologia_AdministradorDeServidores_Nivel2_Leccion5: 5,
+  Tecnologia_AdministradorDeServidores_Nivel2_Leccion6: 6,
+  Tecnologia_AdministradorDeServidores_Nivel3_Leccion1: 4,
+  Tecnologia_AdministradorDeServidores_Nivel3_Leccion2: 4,
+  Tecnologia_AdministradorDeServidores_Nivel4_Leccion1: 4,
+  Tecnologia_AnalistaDeDatos: 1,
+  Tecnologia_AnalistaDeDatos_Nivel1_Leccion1: 5,
+  Tecnologia_AnalistaDeDatos_Nivel1_Leccion2: 5,
+  Tecnologia_AnalistaDeDatos_Nivel1_Leccion3: 7,
+  Tecnologia_AnalistaDeDatos_Nivel2_Leccion1: 5,
+  Tecnologia_AnalistaDeDatos_Nivel2_Leccion2: 5,
+  Tecnologia_AnalistaDeDatos_Nivel2_Leccion3: 3,
+  Tecnologia_AnalistaDeDatos_Nivel2_Leccion4: 4,
+  Tecnologia_AnalistaDeDatos_Nivel2_Leccion5: 7,
+  Tecnologia_AnalistaDeDatos_Nivel2_Leccion6: 4,
+  Tecnologia_AnalistaDeDatos_Nivel3_Leccion1: 4,
+  Tecnologia_AnalistaDeDatos_Nivel3_Leccion2: 5,
+  Tecnologia_AnalistaDeDatos_Nivel3_Leccion3: 5,
+  Tecnologia_AnalistaDeDatos_Nivel4_Leccion1: 4,
+  Tecnologia_AsistenteWeb: 1,
+  Tecnologia_AsistenteWeb_Nivel1_Leccion1: 3,
+  Tecnologia_AsistenteWeb_Nivel1_Leccion2: 4,
+  Tecnologia_AsistenteWeb_Nivel1_Leccion3: 3,
+  Tecnologia_AsistenteWeb_Nivel1_Leccion4: 3,
+  Tecnologia_AsistenteWeb_Nivel1_Leccion5: 2,
+  Tecnologia_AsistenteWeb_Nivel2_Leccion1: 2,
+  Tecnologia_AsistenteWeb_Nivel2_Leccion2: 2,
+  Tecnologia_AsistenteWeb_Nivel2_Leccion3: 4,
+  Tecnologia_AsistenteWeb_Nivel3_Leccion1: 3,
+  Tecnologia_AsistenteWeb_Nivel4_Leccion1: 1,
+  Tecnologia_CuradorDeDatos: 1,
+  Tecnologia_CuradorDeDatos_Nivel1_Leccion1: 3,
+  Tecnologia_CuradorDeDatos_Nivel1_Leccion2: 6,
+  Tecnologia_CuradorDeDatos_Nivel2_Leccion1: 6,
+  Tecnologia_CuradorDeDatos_Nivel2_Leccion2: 5,
+  Tecnologia_CuradorDeDatos_Nivel2_Leccion3: 4,
+  Tecnologia_CuradorDeDatos_Nivel2_Leccion4: 4,
+  Tecnologia_CuradorDeDatos_Nivel3_Leccion1: 3,
+  Tecnologia_CuradorDeDatos_Nivel3_Leccion2: 2,
+  Tecnologia_CuradorDeDatos_Nivel4_Leccion1: 3,
+  Tecnologia_DesarrolladorDeContenidoDigital: 1,
+  Tecnologia_DesarrolladorDeContenidoDigital_Nivel1_Leccion1: 4,
+  Tecnologia_DesarrolladorDeContenidoDigital_Nivel1_Leccion2: 3,
+  Tecnologia_DesarrolladorDeContenidoDigital_Nivel1_Leccion3: 7,
+  Tecnologia_DesarrolladorDeContenidoDigital_Nivel2_Leccion1: 8,
+  Tecnologia_DesarrolladorDeContenidoDigital_Nivel2_Leccion2: 7,
+  Tecnologia_DesarrolladorDeContenidoDigital_Nivel3_Leccion1: 3,
+  Tecnologia_DesarrolladorDeContenidoDigital_Nivel4_Leccion1: 4,
+  Tecnologia_Finder: 1,
+  Tecnologia_Finder_Nivel1_Leccion1: 7,
+  Tecnologia_Finder_Nivel1_Leccion2: 7,
+  Tecnologia_Finder_Nivel1_Leccion3: 3,
+  Tecnologia_Finder_Nivel2_Leccion1: 5,
+  Tecnologia_Finder_Nivel2_Leccion2: 6,
+  Tecnologia_Finder_Nivel2_Leccion3: 3,
+  Tecnologia_Finder_Nivel3_Leccion1: 5,
+  Tecnologia_Finder_Nivel3_Leccion2: 5,
+  Tecnologia_Finder_Nivel4_Leccion1: 4,
+  Tecnologia_GestorDeImagenWeb: 1,
+  Tecnologia_GestorDeImagenWeb_Nivel1_Leccion1: 3,
+  Tecnologia_GestorDeImagenWeb_Nivel1_Leccion2: 5,
+  Tecnologia_GestorDeImagenWeb_Nivel2_Leccion1: 4,
+  Tecnologia_GestorDeImagenWeb_Nivel2_Leccion2: 6,
+  Tecnologia_GestorDeImagenWeb_Nivel2_Leccion3: 7,
+  Tecnologia_GestorDeImagenWeb_Nivel2_Leccion4: 5,
+  Tecnologia_GestorDeImagenWeb_Nivel2_Leccion5: 4,
+  Tecnologia_GestorDeImagenWeb_Nivel3_Leccion1: 4,
+  Tecnologia_GestorDeImagenWeb_Nivel4_Leccion1: 4,
+  Tecnologia_InstaladorDeCablesDeCobre: 1,
+  Tecnologia_InstaladorDeCablesDeCobre_Nivel1_Leccion1: 6,
+  Tecnologia_InstaladorDeCablesDeCobre_Nivel1_Leccion2: 3,
+  Tecnologia_InstaladorDeCablesDeCobre_Nivel2_Leccion1: 4,
+  Tecnologia_InstaladorDeCablesDeCobre_Nivel2_Leccion2: 6,
+  Tecnologia_InstaladorDeCablesDeCobre_Nivel3_Leccion1: 4,
+  Tecnologia_InstaladorDeCablesDeCobre_Nivel3_Leccion2: 3,
+  Tecnologia_InstaladorDeCablesDeCobre_Nivel4_Leccion1: 2,
+  Tecnologia_InstaladorDeFibraoptica: 1,
+  Tecnologia_InstaladorDeFibraoptica_Nivel1_Leccion1: 8,
+  Tecnologia_InstaladorDeFibraoptica_Nivel1_Leccion2: 6,
+  Tecnologia_InstaladorDeFibraoptica_Nivel1_Leccion3: 5,
+  Tecnologia_InstaladorDeFibraoptica_Nivel1_Leccion4: 3,
+  Tecnologia_InstaladorDeFibraoptica_Nivel2_Leccion1: 6,
+  Tecnologia_InstaladorDeFibraoptica_Nivel2_Leccion2: 7,
+  Tecnologia_InstaladorDeFibraoptica_Nivel3_Leccion1: 5,
+  Tecnologia_InstaladorDeFibraoptica_Nivel3_Leccion2: 3,
+  Tecnologia_InstaladorDeFibraoptica_Nivel4_Leccion1: 2,
+  Tecnologia_ProgramadorOrientadoAObjetos: 1,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel1_Leccion1: 5,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel1_Leccion2: 7,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel1_Leccion3: 5,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel2_Leccion1: 4,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel2_Leccion2: 5,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel2_Leccion3: 5,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel2_Leccion4: 4,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel2_Leccion5: 5,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel2_Leccion6: 5,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel2_Leccion7: 4,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel3_Leccion1: 5,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel3_Leccion2: 3,
+  Tecnologia_ProgramadorOrientadoAObjetos_Nivel4_Leccion1: 6,
+  Tecnologia_ReparadorDeCelularesYTablets: 1,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel1_Leccion1: 3,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel1_Leccion2: 4,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel1_Leccion3: 3,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel2_Leccion1: 4,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel2_Leccion2: 4,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel2_Leccion3: 2,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel3_Leccion1: 3,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel3_Leccion2: 2,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel3_Leccion3: 3,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel4_Leccion1: 3,
+  Tecnologia_ReparadorDeCelularesYTablets_Nivel4_Leccion2: 2,
+  Tecnologia_TecnicoEnElectronica: 1,
+  Tecnologia_TecnicoEnElectronica_Nivel1_Leccion1: 4,
+  Tecnologia_TecnicoEnElectronica_Nivel1_Leccion2: 6,
+  Tecnologia_TecnicoEnElectronica_Nivel1_Leccion3: 4,
+  Tecnologia_TecnicoEnElectronica_Nivel1_Leccion4: 5,
+  Tecnologia_TecnicoEnElectronica_Nivel2_Leccion1: 3,
+  Tecnologia_TecnicoEnElectronica_Nivel2_Leccion2: 3,
+  Tecnologia_TecnicoEnElectronica_Nivel3_Leccion1: 3,
+  Tecnologia_TecnicoEnElectronica_Nivel3_Leccion2: 4,
+  Tecnologia_TecnicoEnElectronica_Nivel4_Leccion1: 4,
+  Tecnologia_TecnicoEnElectronica_Nivel4_Leccion2: 3,
+  Tecnologia_TecnicoEnElectronica_Nivel4_Leccion3: 4,
+  Tecnologia_TecnicoEnInformatica: 1,
+  Tecnologia_TecnicoEnInformatica_Nivel1_Leccion1: 5,
+  Tecnologia_TecnicoEnInformatica_Nivel1_Leccion2: 4,
+  Tecnologia_TecnicoEnInformatica_Nivel1_Leccion3: 3,
+  Tecnologia_TecnicoEnInformatica_Nivel2_Leccion1: 5,
+  Tecnologia_TecnicoEnInformatica_Nivel2_Leccion2: 4,
+  Tecnologia_TecnicoEnInformatica_Nivel2_Leccion3: 6,
+  Tecnologia_TecnicoEnInformatica_Nivel2_Leccion4: 5,
+  Tecnologia_TecnicoEnInformatica_Nivel3_Leccion1: 8,
+  Tecnologia_TecnicoEnInformatica_Nivel3_Leccion2: 4,
+  Tecnologia_TecnicoEnInformatica_Nivel4_Leccion1: 4,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo: 1,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel1_Leccion1: 6,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel1_Leccion2: 4,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel1_Leccion3: 3,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel1_Leccion4: 3,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel2_Leccion1: 5,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel2_Leccion2: 4,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel2_Leccion3: 5,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel2_Leccion4: 4,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel3_Leccion1: 4,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel3_Leccion2: 4,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel3_Leccion3: 5,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel3_Leccion4: 4,
+  Tecnologia_TecnicoEnInstalacionYReparacionDeEquipoDeComputo_Nivel4_Leccion1: 3,
+  Tecnologia_TecnicoEnRedesDeDatos: 1,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel1_Leccion1: 3,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel1_Leccion2: 4,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel1_Leccion3: 3,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel2_Leccion1: 3,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel2_Leccion2: 3,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel2_Leccion3: 3,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel2_Leccion4: 4,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel3_Leccion1: 4,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel3_Leccion2: 4,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel3_Leccion3: 3,
+  Tecnologia_TecnicoEnRedesDeDatos_Nivel4_Leccion1: 2,
+  Tecnologia_TecnicoEnSeguridadInformaticaAnalisisDeRiesgos: 1,
+  Tecnologia_TecnicoEnSeguridadInformaticaAnalisisDeRiesgos_Nivel1_Leccion1: 4,
+  Tecnologia_TecnicoEnSeguridadInformaticaAnalisisDeRiesgos_Nivel1_Leccion2: 4,
+  Tecnologia_TecnicoEnSeguridadInformaticaAnalisisDeRiesgos_Nivel2_Leccion1: 5,
+  Tecnologia_TecnicoEnSeguridadInformaticaAnalisisDeRiesgos_Nivel3_Leccion1: 6,
+  Tecnologia_TecnicoEnSeguridadInformaticaAnalisisDeRiesgos_Nivel4_Leccion1: 7,
+  Tecnologia_Tester: 1,
+  Tecnologia_Tester_Nivel1_Leccion1: 3,
+  Tecnologia_Tester_Nivel1_Leccion2: 7,
+  Tecnologia_Tester_Nivel1_Leccion3: 3,
+  Tecnologia_Tester_Nivel1_Leccion4: 5,
+  Tecnologia_Tester_Nivel2_Leccion1: 4,
+  Tecnologia_Tester_Nivel2_Leccion2: 8,
+  Tecnologia_Tester_Nivel2_Leccion3: 3,
+  Tecnologia_Tester_Nivel3_Leccion1: 4,
+  Tecnologia_Tester_Nivel4_Leccion1: 3,
+  Tecnologia_VisualizadorDeBigData: 1,
+  Tecnologia_VisualizadorDeBigData_Nivel1_Leccion1: 5,
+  Tecnologia_VisualizadorDeBigData_Nivel1_Leccion2: 4,
+  Tecnologia_VisualizadorDeBigData_Nivel2_Leccion1: 6,
+  Tecnologia_VisualizadorDeBigData_Nivel2_Leccion2: 4,
+  Tecnologia_VisualizadorDeBigData_Nivel3_Leccion1: 4,
+  Tecnologia_VisualizadorDeBigData_Nivel3_Leccion2: 3,
+  Tecnologia_VisualizadorDeBigData_Nivel3_Leccion3: 5,
+  Tecnologia_VisualizadorDeBigData_Nivel4_Leccion1: 4,
+  Tecnologia_VisualizadorDeBigData_Nivel4_Leccion2: 1 }
+Template Type:!import 'course'
+
+---
+AppId: com.endlessm.celebrities.bn_BD
+Number of Categories: 6
+Category/Article data: 
+{ Actors: 53,
+  'Artists & Thinkers': 50,
+  Athletes: 20,
+  'Events & Awards': 20,
+  Musicians: 50,
+  Politicians: 68 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.celebrities.en
+Number of Categories: 7
+Category/Article data: 
+{ 'Events & Awards': 20,
+  Politicians: 68,
+  'Artists & Thinkers': 43,
+  Musicians: 49,
+  Actors: 54,
+  Athletes: 20,
+  'Actors,Musicians': 1 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.celebrities.es
+Number of Categories: 7
+Category/Article data: 
+{ 'Políticos': 67,
+  'Eventos y premios': 20,
+  'Artistas y pensadores': 42,
+  'Músicos': 50,
+  'Estrellas de cine': 55,
+  Atletas: 20,
+  'Artistas y pensadores,Políticos': 1 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.celebrities.es_GT
+Number of Categories: 8
+Category/Article data: 
+{ 'Políticos': 83,
+  'Eventos y premios': 20,
+  'Artistas y pensadores': 57,
+  'Músicos': 56,
+  'Estrellas de cine': 62,
+  Atletas: 24,
+  'Artistas y pensadores,Políticos': 4,
+  'Estrellas de cine,Músicos': 1 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.celebrities.pt
+Number of Categories: 6
+Category/Article data: 
+{ 'Eventos e Prêmios': 19,
+  'Políticos': 72,
+  'Artistas e Pensadores': 44,
+  'Músicos': 102,
+  'Estrelas de Cinema e TV': 236,
+  Atletas: 27 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.childrens_collection.es
+Number of Categories: 4
+Category/Article data: 
+{ 'Cuentos para niños': 76,
+  'Leer en familia': 40,
+  'Cuentos cortos': 46,
+  'Educación Vial': 6 }
+Template Type:!import 'A'
+
+---
+AppId: zh
+Number of Categories: 4
+Category/Article data: 
+{ '三年级': 200, '四年级': 200, '五年级': 256, '六年级': 212 }
+Template Type:!import 'B'
+
+---
+AppId: zh
+Number of Categories: 6
+Category/Article data: 
+{ '一年级': 248,
+  '二年级': 248,
+  '三年级': 270,
+  '四年级': 260,
+  '五年级': 248,
+  '六年级': 254 }
+Template Type:!import 'B'
+
+---
+AppId: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Number of Categories: 4
+Category/Article data: 
+{ 'الأدوات': 32,
+  'التقينات الأساسية': 112,
+  'الوصفات': 121,
+  'الطبخ الصحي': 44 }
+Template Type:!import B
+
+---
+AppId: com.endlessm.cooking.bn_BD
+Number of Categories: 4
+Category/Article data: 
+{ 'Healthy Cooking': 58,
+  'Basic Techniques': 41,
+  Utensils: 41,
+  Recipes: 158 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.cooking.en
+Number of Categories: 4
+Category/Article data: 
+{ 'Basic Techniques': 41,
+  'Healthy Cooking': 57,
+  Utensils: 41,
+  Recipes: 119 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.cooking.es
+Number of Categories: 5
+Category/Article data: 
+{ 'Técnicas básicas': 51,
+  Utensilios: 42,
+  'Cocina saludable': 29,
+  Recetas: 83,
+  'Cocina saludable,Recetas': 1 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.cooking.es_GT
+Number of Categories: 5
+Category/Article data: 
+{ 'Técnicas básicas': 51,
+  Utensilios: 44,
+  'Cocina saludable': 29,
+  Recetas: 118,
+  'Cocina saludable,Recetas': 1 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.cooking.pt
+Number of Categories: 5
+Category/Article data: 
+{ 'Utensílios': 25,
+  'Cozinha Saudável': 41,
+  'Ténicas Básicas': 56,
+  Receitas: 93,
+  'Cozinha Saudável,Ténicas Básicas': 1 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.creativity_center.es
+Number of Categories: 9
+Category/Article data: 
+{ 'Esculturas y Títeres': 64,
+  'Música y danza': 22,
+  'Música y danza,Para grupos de niños': 7,
+  'Dibuja y pinta': 64,
+  'Para grupos de niños': 22,
+  'Imprime y colorea': 19,
+  'Grabados, sellos y más': 22,
+  'Esculturas y Títeres,Grabados, sellos y más': 2,
+  'Dibuja y pinta,Grabados, sellos y más': 2 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.dinosaurs.en
+Number of Categories: 8
+Category/Article data: 
+{ 'Other Ancient Animals': 29,
+  Dinosaurs: 53,
+  'Dinosaurs in Popular Culture': 28,
+  Paleontology: 27,
+  Classification: 10,
+  'Classification,Paleontology': 8,
+  'Classification,Dinosaur Era': 2,
+  'Classification,Dinosaurs': 5 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.dinosaurs.es
+Number of Categories: 13
+Category/Article data: 
+{ 'Dinosaurios en la cultura popular': 70,
+  Dinosaurios: 65,
+  'Otros seres vivos': 14,
+  'Era de dinosaurios,Paleontología': 13,
+  'Era de dinosaurios,Otros seres vivos': 1,
+  'Dinosaurios,Otros seres vivos': 1,
+  'Era de dinosaurios': 22,
+  'Paleontología': 62,
+  'Clasificación,Era de dinosaurios': 3,
+  'Clasificación': 18,
+  'Clasificación,Paleontología': 7,
+  'Dinosaurios en la cultura popular,Paleontología': 1,
+  'Clasificación,Otros seres vivos': 2 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.dinosaurs.pt
+Number of Categories: 8
+Category/Article data: 
+{ 'Classificação': 10,
+  Dinossauros: 50,
+  'Dinossauros na Cultura Popular': 22,
+  'Outros Animais Antigos': 19,
+  Paleontologia: 22,
+  'Classificação,Paleontologia': 8,
+  'Classificação,Era dos Dinossauros': 2,
+  'Classificação,Dinossauros': 5 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.disabilities.en
+Number of Categories: 15
+Category/Article data: 
+{ 'Social integration': 21,
+  'Social integration,Taking care of children with disabilities': 15,
+  'Taking care of children with disabilities': 9,
+  'Deafness and muteness': 14,
+  'For women with disabilities': 18,
+  'Blindness,Taking care of children with disabilities': 14,
+  'Common disabilities': 30,
+  'Deafness and muteness,Taking care of children with disabilities': 14,
+  Blindness: 4,
+  'Blindness,Common disabilities': 2,
+  'For women with disabilities,Social integration': 6,
+  'Common disabilities,Taking care of children with disabilities': 11,
+  'Deafness and muteness,Social integration': 6,
+  'Blindness,Deafness and muteness': 1,
+  'Common disabilities,Deafness and muteness': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.disabilities.es
+Number of Categories: 19
+Category/Article data: 
+{ 'Para mujeres': 26,
+  'Ceguera,El cuidado de ninos ': 13,
+  'Integración social,Para mujeres': 8,
+  'Integración social': 21,
+  'Integración social,Sordera y mudez': 8,
+  'El cuidado de ninos ,Integración social,Para mujeres': 1,
+  'Discapacidades comunes': 30,
+  'El cuidado de ninos ,Sordera y mudez': 14,
+  'Sordera y mudez': 14,
+  'Discapacidades comunes,El cuidado de ninos ': 10,
+  'El cuidado de ninos ,Integración social,Sordera y mudez': 6,
+  'El cuidado de ninos ': 10,
+  Ceguera: 4,
+  'Ceguera,Discapacidades comunes': 2,
+  'El cuidado de ninos ,Integración social': 15,
+  'Ceguera,El cuidado de ninos ,Integración social': 2,
+  'Discapacidades comunes,El cuidado de ninos ,Para mujeres': 10,
+  'Ceguera,Sordera y mudez': 1,
+  'Discapacidades comunes,Sordera y mudez': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.encyclopedia.ar
+Number of Categories: 1
+Category/Article data: 
+{ undefined: 90751 }
+Template Type:!import 'encyclopedia'
+
+---
+AppId: com.endlessm.encyclopedia.en
+Number of Categories: 1
+Category/Article data: 
+{ undefined: 50000 }
+Template Type:!import 'encyclopedia'
+
+---
+AppId: com.endlessm.encyclopedia.es
+Number of Categories: 1
+Category/Article data: 
+{ undefined: 82119 }
+Template Type:!import 'encyclopedia'
+
+---
+AppId: com.endlessm.encyclopedia.fr
+Number of Categories: 1
+Category/Article data: 
+{ undefined: 38538 }
+Template Type:!import 'encyclopedia'
+
+---
+AppId: com.endlessm.encyclopedia.pt
+Number of Categories: 1
+Category/Article data: 
+{ undefined: 81025 }
+Template Type:!import 'encyclopedia'
+
+com.endlessm.extra.pt_BR
+---
+AppId: com.endlessm.farming.bn_BD
+Number of Categories: 4
+Category/Article data: 
+{ Cultivation: 181,
+  'Agricultural Techniques': 32,
+  'Farm Animals': 43,
+  Tools: 17 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.farming.en
+Number of Categories: 4
+Category/Article data: 
+{ Cultivation: 148,
+  'Agricultural Techniques': 26,
+  'Farm Animals': 43,
+  Tools: 17 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.farming.es_GT
+Number of Categories: 10
+Category/Article data: 
+{ 'Comercio,Cultivos': 115,
+  Herramientas: 18,
+  'Técnicas agrícolas': 27,
+  Comercio: 4,
+  'Animales de granja': 23,
+  Cultivos: 38,
+  'Comercio,Herramientas': 2,
+  'El medio ambiente': 28,
+  'Animales de granja,Comercio': 21,
+  'Comercio,Técnicas agrícolas': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.farming.pt
+Number of Categories: 4
+Category/Article data: 
+{ Cultivo: 125,
+  'Técnicas Agrícolas': 18,
+  'Animais de Fazenda': 27,
+  Ferramentas: 8 }
+Template Type:!import 'A'
+
+---
+AppId: pt
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'library-list'
+
+---
+AppId: pt
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'library-list'
+
+---
+AppId: com.endlessm.fnde_mec_high_school.pt_BR
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'escola'
+
+---
+AppId: com.endlessm.fnde_mec_history.pt_BR
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'escola'
+
+---
+AppId: com.endlessm.fnde_mec_literature.pt_BR
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'escola'
+
+---
+AppId: com.endlessm.fnde_mec_mathematics.pt_BR
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'escola'
+
+---
+AppId: com.endlessm.fnde_mec_portuguese.pt_BR
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'escola'
+
+---
+AppId: com.endlessm.fnde_mec_science.pt_BR
+Number of Categories: 0
+Category/Article data: 
+{}
+Template Type:!import 'escola'
+
+---
+AppId: com.endlessm.geography.en
+Number of Categories: 11
+Category/Article data: 
+{ 'The Environment': 19,
+  'Africa and the Middle East,Countries of the World': 52,
+  'Countries of the World,Europe': 43,
+  'Countries of the World': 6,
+  'Countries of the World,Latin America': 31,
+  'Countries of the World,Oceania': 5,
+  'Asia,Countries of the World': 24,
+  'Countries of the World,North America': 3,
+  'Human Geography': 16,
+  'Physical Geography': 21,
+  'Latin America': 4 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.geography.en_BD
+Number of Categories: 13
+Category/Article data: 
+{ 'Countries of the World,Africa and the Middle East': 52,
+  'Countries of the World,Asia': 24,
+  'Countries of the World,Europe': 43,
+  'Countries of the World,Latin America': 31,
+  'Countries of the World,North America': 3,
+  'Countries of the World,Oceania': 5,
+  'Countries of the World': 6,
+  'Human Geography': 17,
+  'Latin America': 4,
+  'Physical Geography': 22,
+  'The Environment': 19,
+  'Geography of Bangladesh': 27,
+  'Rivers of Bangladesh': 56 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.geography.es
+Number of Categories: 14
+Category/Article data: 
+{ 'El medio ambiente': 19,
+  'Países del mundo,África y el Medio Oriente': 49,
+  Europa: 3,
+  'Europa,Países del mundo': 40,
+  'América Latina,Países del mundo': 30,
+  'Países del mundo': 14,
+  'África y el Medio Oriente': 3,
+  'América Latina': 5,
+  Asia: 1,
+  'Asia,Países del mundo': 24,
+  'América del Norte,Países del mundo': 1,
+  'Geografía humana': 18,
+  'Geografía física': 21,
+  'Geografía física,Geografía humana': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.geography.es_GT
+Number of Categories: 15
+Category/Article data: 
+{ 'El medio ambiente': 19,
+  'Países del mundo,África y el Medio Oriente': 49,
+  Europa: 3,
+  'Europa,Países del mundo': 40,
+  'América Latina,Geografía de Guatemala': 60,
+  'América Latina,Países del mundo': 30,
+  'Países del mundo': 14,
+  'África y el Medio Oriente': 3,
+  'América Latina': 5,
+  Asia: 1,
+  'Asia,Países del mundo': 24,
+  'América del Norte,Países del mundo': 1,
+  'Geografía humana': 18,
+  'Geografía física': 21,
+  'Geografía física,Geografía humana': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.geography.pt
+Number of Categories: 11
+Category/Article data: 
+{ 'O Ambiente': 19,
+  'Países do Mundo,África e Oriente Médio': 52,
+  'Europa,Países do Mundo': 43,
+  'América Latina,Países do Mundo': 31,
+  'América do Norte,Países do Mundo': 3,
+  'Países do Mundo': 6,
+  'Oceania,Países do Mundo': 5,
+  'Países do Mundo,Ásia': 24,
+  'Geografia Humana': 15,
+  'América Latina': 4,
+  'Geografia Física': 21 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.guatemala.es_GT
+Number of Categories: 21
+Category/Article data: 
+{ 'Geografía': 54,
+  Deportes: 39,
+  'Religión': 22,
+  Comida: 17,
+  Arte: 14,
+  'Historia y política': 45,
+  'Arte,Celebridades': 2,
+  'Eventos y cultura': 44,
+  'Economía': 14,
+  Atracciones: 15,
+  'Celebridades,Música': 19,
+  'Economía,Historia y política': 9,
+  'Atracciones,Geografía': 6,
+  'Música': 3,
+  'Arte,Eventos y cultura': 3,
+  'Arte,Atracciones': 5,
+  Celebridades: 5,
+  'Celebridades,Historia y política': 5,
+  'Deportes,Eventos y cultura': 1,
+  'Eventos y cultura,Religión': 1,
+  'Atracciones,Eventos y cultura': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.guatemalan_curriculum.es_GT
+Number of Categories: 5
+Category/Article data: 
+{ 'Sec. alumnos,Sec. maestros': 7,
+  'Sobre el CNB': 15,
+  'Prim. alumnos': 34,
+  'Prim. maestros': 19,
+  'Textos de bachillerato': 12 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.handicrafts.es
+Number of Categories: 9
+Category/Article data: 
+{ 'Carpintería': 43,
+  Textiles: 39,
+  'Papel y cerámica': 37,
+  Costura: 31,
+  'Joyería,Materiales reciclados': 6,
+  'Materiales reciclados': 17,
+  'Joyería': 27,
+  'Materiales reciclados,Papel y cerámica': 6,
+  'Costura,Materiales reciclados': 2 }
+Template Type:!import 'A'
+
+---
+AppId: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Number of Categories: 5
+Category/Article data: 
+{ 'المرض': 90,
+  'الإسعافات الأولية': 23,
+  'العلاج': 13,
+  'الإعاقة': 51,
+  'الدليل الصحي': 11 }
+Template Type:!import A
+
+---
+AppId: com.endlessm.health.en
+Number of Categories: 7
+Category/Article data: 
+{ 'Health Guides': 42,
+  Ailments: 140,
+  Medicine: 8,
+  'First Aid': 30,
+  Treatment: 11,
+  'Ailments,Health Guides': 3,
+  'Health Guides,Medicine': 2 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.health.es
+Number of Categories: 7
+Category/Article data: 
+{ Ailments: 152,
+  'Health guides': 43,
+  'First aid': 30,
+  Treatment: 11,
+  Medicine: 8,
+  'Health guides,Medicine': 2,
+  'Ailments,Health guides': 3 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.healthy_teeth.en
+Number of Categories: 11
+Category/Article data: 
+{ 'For the family,Prevention': 15,
+  Ailments: 59,
+  'For the family,Procedures': 4,
+  Procedures: 15,
+  Prevention: 47,
+  'Ailments,Prevention': 18,
+  Anatomy: 22,
+  'For the family': 19,
+  'Anatomy,For the family': 1,
+  'Prevention,Procedures': 5,
+  'Anatomy,Prevention': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.healthy_teeth.es
+Number of Categories: 11
+Category/Article data: 
+{ 'Prevención': 49,
+  'Enfermedades ,Prevención': 18,
+  'Enfermedades ': 63,
+  'Para la familia,Procedimientos ': 4,
+  'Procedimientos ': 18,
+  'Para la familia': 19,
+  Anatomia: 22,
+  'Para la familia,Prevención': 15,
+  'Anatomia,Para la familia': 1,
+  'Prevención,Procedimientos ': 5,
+  'Anatomia,Prevención': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.history.en
+Number of Categories: 18
+Category/Article data: 
+{ 'Middle Ages': 21,
+  'Africa and the Middle East,Asia,Old Age': 2,
+  'Industrial Revolution': 18,
+  'Renaissance ': 26,
+  'Renaissance ,The Americas': 5,
+  'Africa and the Middle East,Europe': 1,
+  'Africa and the Middle East': 9,
+  'Modern and Contemporary Age': 34,
+  'Africa and the Middle East,Old Age': 15,
+  Europe: 36,
+  'Old Age': 18,
+  'Prehistoric Age': 20,
+  'Old Age,The Americas': 10,
+  'The Americas': 15,
+  'Asia,Old Age': 17,
+  'Asia,Modern and Contemporary Age': 1,
+  'Modern and Contemporary Age,The Americas': 2,
+  'Industrial Revolution,Modern and Contemporary Age': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.history.en_BD
+Number of Categories: 21
+Category/Article data: 
+{ 'Europe,Africa and the Middle East': 1,
+  'Old Age,Africa and the Middle East': 15,
+  'Modern and Contemporary Age,Industrial Revolution': 1,
+  'Modern and Contemporary Age,The Americas': 2,
+  'Old Age,The Americas': 10,
+  'Renaissance,The Americas': 5,
+  'Modern and Contemporary Age,Asia': 1,
+  'Old Age,Asia': 17,
+  'Old Age,Asia,Africa and the Middle East': 2,
+  'Africa and the Middle East': 10,
+  Europe: 38,
+  'Industrial Revolution': 18,
+  'Middle Ages': 21,
+  'Modern and Contemporary Age': 78,
+  'Old Age': 58,
+  'Prehistoric Age': 20,
+  Renaissance: 27,
+  'The Americas': 15,
+  Empire: 42,
+  Revolution: 5,
+  Asia: 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.history.es
+Number of Categories: 18
+Category/Article data: 
+{ 'Revolución industrial': 21,
+  Europa: 55,
+  'Edad antigua': 24,
+  Renacimiento: 34,
+  'África y el Medio Oriente': 10,
+  'Edad moderna y contemporánea': 43,
+  'Edad moderna y contemporánea,Las Américas': 4,
+  'Edad antigua,Las Américas': 13,
+  'Edad media': 24,
+  Prehistoria: 30,
+  'Edad antigua,África y el Medio Oriente': 24,
+  'Las Américas': 19,
+  'Edad antigua,El Oriente': 25,
+  'El Oriente,África y el Medio Oriente': 2,
+  'Las Américas,Renacimiento': 9,
+  'Edad moderna y contemporánea,El Oriente': 2,
+  'Edad moderna y contemporánea,Revolución industrial': 1,
+  'Europa,África y el Medio Oriente': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.history.es_GT
+Number of Categories: 18
+Category/Article data: 
+{ 'Revolución industrial': 21,
+  Europa: 55,
+  'Edad antigua': 24,
+  Renacimiento: 34,
+  'África y el Medio Oriente': 10,
+  'Las Américas': 133,
+  'Edad moderna y contemporánea': 43,
+  'Edad moderna y contemporánea,Las Américas': 4,
+  'Edad antigua,Las Américas': 13,
+  'Edad media': 24,
+  Prehistoria: 30,
+  'Edad antigua,África y el Medio Oriente': 24,
+  'Edad antigua,El Oriente': 25,
+  'El Oriente,África y el Medio Oriente': 2,
+  'Las Américas,Renacimiento': 9,
+  'Edad moderna y contemporánea,El Oriente': 2,
+  'Edad moderna y contemporánea,Revolución industrial': 1,
+  'Europa,África y el Medio Oriente': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.history.pt
+Number of Categories: 18
+Category/Article data: 
+{ 'Revolução Industrial': 18,
+  Europa: 35,
+  'As Américas,Idade Antiga': 10,
+  'Europa,África e Oriente Médio': 1,
+  'África e Oriente Médio': 9,
+  'Idade Moderna e Conteporânea': 32,
+  'Idade Média': 21,
+  'As Américas,Idade Moderna e Conteporânea': 2,
+  'As Américas,Renascença': 4,
+  'Idade Antiga,África e Oriente Médio': 15,
+  'Renascença': 21,
+  'Era Pré-Histórica ': 20,
+  'Idade Antiga': 18,
+  'As Américas': 13,
+  'Idade Antiga,Ásia': 17,
+  'Idade Antiga,África e Oriente Médio,Ásia': 2,
+  'Idade Moderna e Conteporânea,Revolução Industrial': 1,
+  'Idade Moderna e Conteporânea,Ásia': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.howto.en
+Number of Categories: 6
+Category/Article data: 
+{ 'Healthy Living': 21,
+  Exercise: 5,
+  'Arts & Entertainment': 78,
+  'Home & Garden': 67,
+  'Finance & Business': 24,
+  Sports: 30 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.howto.es
+Number of Categories: 6
+Category/Article data: 
+{ 'Artes y oficios': 78,
+  'Organización': 32,
+  Deportes: 30,
+  Ejercicios: 5,
+  'Para la casa': 59,
+  'Una vida saludable': 21 }
+Template Type:!import 'B'
+
+---
+AppId: com.endlessm.howto.pt
+Number of Categories: 6
+Category/Article data: 
+{ 'Negócios e Finanças': 23,
+  'Casa e Jardim': 55,
+  'Vida Saudável': 20,
+  'Artes e Entretenimento': 66,
+  Esportes: 24,
+  'Exercícios': 5 }
+Template Type:!import 'B'
+
+---
+AppId: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Number of Categories: 5
+Category/Article data: 
+{ Infantil: 17,
+  Jovem: 9,
+  'Literatura brasileira': 21,
+  'Literatura clássica': 7,
+  'Literatura portuguesa': 17 }
+Template Type:!import A
+
+---
+AppId: com.endlessm.maternity.en
+Number of Categories: 13
+Category/Article data: 
+{ Pregnancy: 27,
+  'Baby\'s First Months': 142,
+  'For Nurses': 11,
+  'Preparing for Baby’s Arrival': 18,
+  'Baby\'s First Months,Preparing for Baby’s Arrival': 16,
+  Delivery: 34,
+  'Delivery,Preparing for Baby’s Arrival': 3,
+  'Delivery,Pregnancy': 5,
+  'Delivery,For Nurses,Pregnancy': 1,
+  'Baby\'s First Months,Pregnancy': 3,
+  'Baby\'s First Months,Delivery': 6,
+  'Baby\'s First Months,Pregnancy,Preparing for Baby’s Arrival': 1,
+  'Pregnancy,Preparing for Baby’s Arrival': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.maternity.es
+Number of Categories: 17
+Category/Article data: 
+{ 'For nurses,Pregnancy': 11,
+  'Baby first months': 143,
+  'For nurses': 11,
+  'Delivery,For nurses': 18,
+  Pregnancy: 17,
+  'Preparing for baby’s arrival': 19,
+  'Baby first months,Preparing for baby’s arrival': 16,
+  'Delivery,Preparing for baby’s arrival': 2,
+  Delivery: 17,
+  'Baby first months,Pregnancy': 3,
+  'Baby first months,Pregnancy,Preparing for baby’s arrival': 1,
+  'Delivery,Pregnancy': 4,
+  'Delivery,For nurses,Pregnancy': 2,
+  'Baby first months,For nurses': 1,
+  'Baby first months,Delivery,For nurses': 6,
+  'Delivery,For nurses,Preparing for baby’s arrival': 1,
+  'Pregnancy,Preparing for baby’s arrival': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.math.en
+Number of Categories: 8
+Category/Article data: 
+{ Arithmetic: 63,
+  'Geometry ': 52,
+  Algebra: 49,
+  'Differential Equations ': 14,
+  'Calculus ': 23,
+  Statistics: 18,
+  'Linear Algebra': 19,
+  'Trigonometry ': 12 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.math.es
+Number of Categories: 8
+Category/Article data: 
+{ 'Geometría': 52,
+  'Aritmética Lineal': 63,
+  'Álgebra Lineal': 19,
+  'Álgebra': 49,
+  'Cálculo': 23,
+  'Trigonometría': 12,
+  'Estadística': 18,
+  'Ecuaciones Diferenciales': 14 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.math.pt
+Number of Categories: 8
+Category/Article data: 
+{ 'Aritimética': 53,
+  Geometria: 48,
+  'Álgebra Linear ': 18,
+  'Álgebra': 44,
+  'Cálculos': 21,
+  'Estatística': 14,
+  Trigonometria: 12,
+  'Equações Diferenciais': 13 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.mayan_languages.es_GT
+Number of Categories: 6
+Category/Article data: 
+{ Mam: 48,
+  Kaqchikel: 52,
+  'K\'iche': 60,
+  'Q\'eqchi': 2,
+  'K\'iche,Kaqchikel,Mam,Q\'eqchi,Tz\'utujil': 1,
+  'Tz\'utujil': 44 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.microenterprises.es_GT
+Number of Categories: 4
+Category/Article data: 
+{ 'Administrando y Organizando': 13,
+  Empezando: 8,
+  Liderando: 6,
+  Formalizando: 7 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.mpower_health.bn_BD
+Number of Categories: 6
+Category/Article data: 
+{ 'সাধারণ অসুখ সম্পর্কিত তথ্য': 56,
+  'প্রয়োজনীয় স্বাস্থ্য নিরাপত্তা এবং প্রজনন স্বাস্থ্য': 12,
+  'প্রয়োজনীয় পুষ্টি সম্পর্কিত তথ্য': 8,
+  'উন্নত পানি ব্যবস্থা স্বাস্থ্য ব্যবস্থা এবং স্বাস্থ্য বিধি': 36,
+  'প্রসবকালীন নবজাত ও শিশু স্বাস্থ্য সেবা': 13,
+  'অন্যান্য': 3 }
+Template Type:
+---
+AppId: com.endlessm.myths.en
+Number of Categories: 11
+Category/Article data: 
+{ Europe: 88,
+  'Africa,Classic Myths and Legends': 23,
+  'Classic Myths and Legends': 29,
+  'Middle East': 25,
+  Africa: 1,
+  'Horror Stories': 9,
+  Americas: 31,
+  'Americas,Horror Stories': 2,
+  Asia: 17,
+  'Europe,Horror Stories': 3,
+  'Asia,Horror Stories': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.myths.es
+Number of Categories: 12
+Category/Article data: 
+{ Europa: 90,
+  'Leyendas y mitos modernos': 21,
+  'Leyendas y mitos clásicos,África': 23,
+  'Leyendas y mitos clásicos': 10,
+  'África': 1,
+  'Oriente Medio': 25,
+  'Historias de Terror': 11,
+  'Historias de Terror,Las Américas': 5,
+  'Las Américas': 36,
+  'Europa,Historias de Terror': 3,
+  Asia: 19,
+  'Asia,Historias de Terror': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.myths.pt
+Number of Categories: 12
+Category/Article data: 
+{ 'Mitos e Lendas Clássicos': 23,
+  Europa: 81,
+  'Mitos e Lendas Clássicos,África': 20,
+  'África': 1,
+  'Oriente Médio': 22,
+  Brasil: 20,
+  'Américas,Histórias de Terror': 1,
+  'Américas': 16,
+  'Histórias de Terror': 5,
+  'Europa,Histórias de Terror': 3,
+  'Ásia': 16,
+  'Histórias de Terror,Ásia': 1 }
+Template Type:!import 'A'
+
+---
+AppId: es
+Number of Categories: 46
+Category/Article data: 
+{ 'Preámbulo': 1,
+  'Título I. De Las Declaraciones Fundamentales': 3,
+  'Sección I. De La Vida': 3,
+  'Sección II. Del Ambiente': 2,
+  'Capítulo II. De La Libertad': 37,
+  'Capítulo III. De La Igualdad': 3,
+  'Capítulo IV. De Los Derechos De La Familia': 13,
+  'Capítulo V. De Los Pueblos Indígenas': 6,
+  'Capítulo VI. De La Salud': 5,
+  'Capítulo VII. De La Educación y De La Cultura': 13,
+  'Sección I. De Los Derechos Laborales': 15,
+  'Sección II. De La Función Pública': 6,
+  'Sección I. De Los Derechos Económicos': 7,
+  'Sección II. De La Reforma Agraria': 3,
+  'Capítulo X. De Los Derechos y De Los Deberes Políticos': 10,
+  'Capítulo XI. De Los Deberes': 4,
+  'Capítulo XII. De Las Garantías Constitucionales': 6,
+  'Capítulo I. De Las Declaraciones Generales': 4,
+  'Capítulo II. De Las Relaciones Internacionales': 5,
+  'Capítulo III. De La Nacionalidad y De La Ciudadanía': 9,
+  'Sección I. De Las Disposiciones Generales': 6,
+  'Sección II. De Los Departamentos': 5,
+  'Sección III. De Los Municipios': 6,
+  'Capítulo V. De La Fuerza Pública': 4,
+  'Sección I. Del Desarrollo Económiconacional': 2,
+  'Sección II. De La Organización Finaciera': 4,
+  'Sección I. De Las Disposiciones Generales_': 21,
+  'Sección II. De La Formación y La Sanción De Las Leyes': 15,
+  'Sección III. De la Comisión Permanente Del Congreso': 3,
+  'Sección IV. De la Cámara de Diputados': 2,
+  'Sección V. De La Cámara de Senadores': 2,
+  'Sección VI. Del Juicio Político': 1,
+  'Sección I. Del Presidente De La República y Del Vicepresidente': 14,
+  'Sección II. De Los Ministros y Del consejo De Ministros': 4,
+  'Sección III. De La Procuraduría General De La República': 3,
+  'Sección I. De Las Disposiciones Generales__': 11,
+  'Sección II. De La Corte Suprema De Justicia': 4,
+  'Sección III. Del Consejo De La Magistratura': 4,
+  'Sección IV. Del Ministerio Público': 7,
+  'Sección V. De la Justicia Electoral': 3,
+  'Sección I. De La Defensoría Del Pueblo': 5,
+  'Sección II. De La Contraloría General de La República': 4,
+  'Sección III. De la Banca Central Del Estado': 3,
+  'Título III. Del Estado De Excepción': 1,
+  'Título IV. De La Reforma y De La Enmienda De La Constitución': 3,
+  'Título V. De Las Disposiciones Finales y Transitorias': 20 }
+Template Type:---
+defines:
+- &card
+  Card.Text
+
+- &home-page
+  shortdef: 'Layout.Box(orientation: vertical)'
+  slots:
+    contents:
+      - shortdef: 'Layout.Box(homogeneous: true, valign: start, vexpand: false)'
+        slots:
+          contents:
+          - type: Banner.App
+            properties:
+              valign: center
+              halign: center
+              orientation: horizontal
+          - type: Navigation.SearchBox
+            properties:
+              shadow-type: none
+              halign: center
+              valign: center
+              focus-on-map: true
+      - type: ContentGroup.ContentGroup
+        slots:
+          arrangement:
+            type: Arrangement.TiledGrid
+            slots:
+              card: Card.LegacyPost
+          selection:
+            type: Selection.AllSets
+            slots:
+              filter: Filter.Featured
+
+- &set-page
+  shortdef: 'Layout.Box(orientation: vertical)'
+  slots:
+    contents:
+    - shortdef: 'Banner.Set(halign: center, valign: start, vexpand: false)'
+      slots:
+        card:
+          shortdef: 'Card.Text(halign: center)'
+    - Decoration.Separator
+    - type: Layout.InfiniteScrolling
+      references:
+        lazy-load: set-articles
+      slots:
+        content:
+          shortdef: 'Layout.Box(orientation: vertical, valign: start)'
+          slots:
+            contents:
+            - type: ContentGroup.ContentGroup
+              slots:
+                arrangement:
+                  type: Arrangement.Grid
+                  properties:
+                    homogeneous: true
+                    max-children-per-line: 3
+                    min-children-per-line: 3
+                  slots:
+                    card: *card
+                selection:
+                  type: Selection.SubsetsForSet
+            - type: ContentGroup.ContentGroup
+              slots:
+                arrangement:
+                  type: Arrangement.List
+                  slots:
+                    card: *card
+                selection:
+                  type: Selection.ArticlesForSet
+
+- &search-page
+  shortdef: 'Layout.Box(orientation: vertical)'
+  slots:
+    contents:
+    - 'Banner.Search(halign: center)'
+    - Decoration.Separator
+    - type: Layout.InfiniteScrolling
+      references:
+        lazy-load: search-results
+      slots:
+        content:
+          type: ContentGroup.ContentGroup
+          slots:
+            arrangement:
+              type: Arrangement.List
+              slots:
+                card: *card
+            selection:
+              type: Selection.Search
+              id: search-results
+            no-results: ContentGroup.NoResultsMessage
+          styles:
+          - search-results
+
+- &article-page
+  type: Layout.ArticleStack
+  slots:
+    card: 'Card.KnowledgeDocument(show-toc: true)'
+
+root:
+  shortdef: 'Controller.Mesh(theme: preset_a)'
+  slots:
+    window:
+      type: Window.Simple
+      slots:
+        search: Navigation.SearchBox
+        content:
+          type: ContentGroup.MediaLightbox
+          slots:
+            card: Card.Media
+            content:
+              type: Layout.Navigation
+              slots:
+                content:
+                  type: Pager.ParallaxBackground
+                  slots:
+                    home-page: *home-page
+                    set-page: *set-page
+                    search-page: *search-page
+                    article-page: *article-page
+
+---
+AppId: com.endlessm.physics.en
+Number of Categories: 18
+Category/Article data: 
+{ 'Fundamental Concepts ': 29,
+  'Thermodynamics ': 29,
+  Mechanics: 54,
+  'Mechanics,Quantum Mechanics': 1,
+  'Astrophysics,Fundamental Concepts ': 1,
+  'Fundamental Concepts ,Quantum Mechanics': 5,
+  'Nuclear Physics & Particles ': 18,
+  'Electromagnetism ': 54,
+  'Nuclear Physics & Particles ,Quantum Mechanics': 4,
+  Relativity: 2,
+  'Physics Equations ': 23,
+  'Quantum Mechanics': 9,
+  Astrophysics: 3,
+  'Astrophysics,Relativity': 4,
+  'Astrophysics,Mechanics,Relativity': 4,
+  'Astrophysics,Mechanics': 1,
+  'Mechanics,Relativity': 1,
+  'Astrophysics,Fundamental Concepts ,Relativity': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.physics.es
+Number of Categories: 16
+Category/Article data: 
+{ 'Conceptos fundamentales': 29,
+  'Mecánica': 54,
+  'Termodinámica': 28,
+  'Física nuclear y de partículas': 40,
+  'Astrofísica,Relatividad': 4,
+  Relatividad: 2,
+  Electromagnetismo: 54,
+  'Astrofísica,Conceptos fundamentales': 1,
+  'Física nuclear y de partículas,Mecánica cuántica': 4,
+  'Mecánica,Relatividad': 5,
+  'Mecánica cuántica': 7,
+  'Astrofísica': 3,
+  'Conceptos fundamentales,Mecánica cuántica': 5,
+  'Astrofísica,Mecánica': 1,
+  'Conceptos fundamentales,Relatividad': 1,
+  'Mecánica,Mecánica cuántica': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.physics.pt
+Number of Categories: 18
+Category/Article data: 
+{ 'Conceitos Fundamentais': 27,
+  'Mecânica': 49,
+  'Termodinâmica ': 25,
+  'Astrofísica,Conceitos Fundamentais': 1,
+  'Equações Físicas': 18,
+  'Astrofísica,Relatividade': 3,
+  Relatividade: 2,
+  'Física Nuclear e Partículas ,Mecânica Quântica ': 4,
+  Eletromagnetismo: 45,
+  'Astrofísica,Mecânica,Relatividade': 4,
+  'Mecânica Quântica ': 9,
+  'Física Nuclear e Partículas ': 18,
+  'Astrofísica': 3,
+  'Conceitos Fundamentais,Mecânica Quântica ': 5,
+  'Astrofísica,Mecânica': 1,
+  'Astrofísica,Conceitos Fundamentais,Relatividade': 1,
+  'Mecânica,Mecânica Quântica ': 1,
+  'Mecânica,Relatividade': 1 }
+Template Type:!import 'A'
+
+com.endlessm.prensa_libre.es_GT
+---
+AppId: en
+Number of Categories: 4
+Category/Article data: 
+{ HTML5: 13,
+  'HTML5 and CSS3': 13,
+  JavaScript: 2,
+  'Command Line Basics': 2 }
+Template Type:---
+defines:
+- &sidebar-right
+  shortdef: 'Layout.Sidebar(sidebar-first: false)'
+
+- &sidebar-search-group
+  type: ContentGroup.ContentGroup
+  styles:
+  - search-results
+
+- &sidebar-set-group
+  type: ContentGroup.ContentGroup
+  styles:
+  - items
+
+- &sidebar-list-slots
+  arrangement:
+    shortdef: 'Arrangement.List(orientation: vertical)'
+    slots:
+      card: Card.Title
+  no-results: 'ContentGroup.NoResultsMessage(valign: center)'
+
+- &home-page
+  shortdef: 'Layout.Box(orientation: vertical)'
+  slots:
+    contents:
+    - shortdef: 'Layout.Box(homogeneous: true, valign: start)'
+      slots:
+        contents:
+        - type: Banner.App
+          properties:
+            valign: center
+            halign: center
+        - type: Navigation.SearchBox
+          properties:
+            shadow-type: none
+            halign: center
+            valign: center
+            focus-on-map: true
+    - shortdef: 'ContentGroup.ContentGroup(expand: true)'
+      slots:
+        arrangement:
+          type: Arrangement.TiledGrid
+          slots:
+            card: Card.LegacyPost
+        selection:
+          type: Selection.AllSets
+          slots:
+           order: Order.Alphabetical
+
+- &set-page
+  <<: *sidebar-right
+  slots:
+    content:
+      shortdef: 'Banner.Set(valign: end)'
+      slots:
+        card: Card.Title
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: set-sidebar
+      slots:
+        content:
+          <<: *sidebar-set-group
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.ArticlesForSet
+              id: set-sidebar
+              slots:
+                order: Order.Alphabetical
+
+- &search-page
+  <<: *sidebar-right
+  slots:
+    content: 'Banner.Search(valign: center)'
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: search-results
+      slots:
+        content:
+          <<: *sidebar-search-group
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.Search
+              id: search-results
+
+- &article-page
+  type: Layout.Sidebar
+  slots:
+    content:
+      type: Layout.ArticleStack
+      slots:
+        card:
+          type: Card.KnowledgeDocument
+          properties:
+            show-titles: false
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: article-list
+      slots:
+        content:
+          type: ContentGroup.ContentGroup
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.ArticleContext
+              id: article-list
+
+root:
+  shortdef: 'Controller.Mesh(theme: preset_b)'
+  slots:
+    window:
+      type: Window.Simple
+      slots:
+        search: Navigation.SearchBox
+        content:
+          type: ContentGroup.MediaLightbox
+          slots:
+            card: Card.Media
+            content:
+              type: Layout.Navigation
+              slots:
+                content:
+                  type: Pager.ParallaxBackground
+                  slots:
+                    home-page: *home-page
+                    set-page: *set-page
+                    search-page: *search-page
+                    article-page: *article-page
+
+---
+AppId: es
+Number of Categories: 4
+Category/Article data: 
+{ HTML5: 18, CSS3: 12, Javascript: 12, JQuery: 12 }
+Template Type:---
+defines:
+- &sidebar-right
+  shortdef: 'Layout.Sidebar(sidebar-first: false)'
+
+- &sidebar-search-group
+  type: ContentGroup.ContentGroup
+  styles:
+  - search-results
+
+- &sidebar-set-group
+  type: ContentGroup.ContentGroup
+  styles:
+  - items
+
+- &sidebar-list-slots
+  arrangement:
+    shortdef: 'Arrangement.List(orientation: vertical)'
+    slots:
+      card: Card.Title
+  no-results: 'ContentGroup.NoResultsMessage(valign: center)'
+
+- &home-page
+  shortdef: 'Layout.Box(orientation: vertical)'
+  slots:
+    contents:
+    - shortdef: 'Layout.Box(homogeneous: true, valign: start)'
+      slots:
+        contents:
+        - type: Banner.App
+          properties:
+            valign: center
+            halign: center
+        - type: Navigation.SearchBox
+          properties:
+            shadow-type: none
+            halign: center
+            valign: center
+            focus-on-map: true
+    - shortdef: 'ContentGroup.ContentGroup(expand: true)'
+      slots:
+        arrangement:
+          type: Arrangement.TiledGrid
+          slots:
+            card: Card.LegacyPost
+        selection:
+          type: Selection.AllSets
+          slots:
+           order: Order.Alphabetical
+
+- &set-page
+  <<: *sidebar-right
+  slots:
+    content:
+      shortdef: 'Banner.Set(valign: end)'
+      slots:
+        card: Card.Title
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: set-sidebar
+      slots:
+        content:
+          <<: *sidebar-set-group
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.ArticlesForSet
+              id: set-sidebar
+              slots:
+                order: Order.Alphabetical
+
+- &search-page
+  <<: *sidebar-right
+  slots:
+    content: 'Banner.Search(valign: center)'
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: search-results
+      slots:
+        content:
+          <<: *sidebar-search-group
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.Search
+              id: search-results
+
+- &article-page
+  type: Layout.Sidebar
+  slots:
+    content:
+      type: Layout.ArticleStack
+      slots:
+        card:
+          type: Card.KnowledgeDocument
+          properties:
+            show-titles: false
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: article-list
+      slots:
+        content:
+          type: ContentGroup.ContentGroup
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.ArticleContext
+              id: article-list
+
+root:
+  shortdef: 'Controller.Mesh(theme: preset_b)'
+  slots:
+    window:
+      type: Window.Simple
+      slots:
+        search: Navigation.SearchBox
+        content:
+          type: ContentGroup.MediaLightbox
+          slots:
+            card: Card.Media
+            content:
+              type: Layout.Navigation
+              slots:
+                content:
+                  type: Pager.ParallaxBackground
+                  slots:
+                    home-page: *home-page
+                    set-page: *set-page
+                    search-page: *search-page
+                    article-page: *article-page
+
+---
+AppId: pt
+Number of Categories: 4
+Category/Article data: 
+{ 'HTML e CSS': 87,
+  PHP: 47,
+  'JavaScript e jQuery': 31,
+  'Apêndices e em mais': 47 }
+Template Type:---
+defines:
+- &sidebar-right
+  shortdef: 'Layout.Sidebar(sidebar-first: false)'
+
+- &sidebar-search-group
+  type: ContentGroup.ContentGroup
+  styles:
+  - search-results
+
+- &sidebar-set-group
+  type: ContentGroup.ContentGroup
+  styles:
+  - items
+
+- &sidebar-list-slots
+  arrangement:
+    shortdef: 'Arrangement.List(orientation: vertical)'
+    slots:
+      card: Card.Title
+  no-results: 'ContentGroup.NoResultsMessage(valign: center)'
+
+- &home-page
+  shortdef: 'Layout.Box(orientation: vertical)'
+  slots:
+    contents:
+    - shortdef: 'Layout.Box(homogeneous: true, valign: start)'
+      slots:
+        contents:
+        - type: Banner.App
+          properties:
+            valign: center
+            halign: center
+        - type: Navigation.SearchBox
+          properties:
+            shadow-type: none
+            halign: center
+            valign: center
+            focus-on-map: true
+    - shortdef: 'ContentGroup.ContentGroup(expand: true)'
+      slots:
+        arrangement:
+          type: Arrangement.TiledGrid
+          slots:
+            card: Card.LegacyPost
+        selection:
+          type: Selection.AllSets
+          slots:
+           order: Order.Alphabetical
+
+- &set-page
+  <<: *sidebar-right
+  slots:
+    content:
+      shortdef: 'Banner.Set(valign: end)'
+      slots:
+        card: Card.Title
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: set-sidebar
+      slots:
+        content:
+          <<: *sidebar-set-group
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.ArticlesForSet
+              id: set-sidebar
+              slots:
+                order: Order.Alphabetical
+
+- &search-page
+  <<: *sidebar-right
+  slots:
+    content: 'Banner.Search(valign: center)'
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: search-results
+      slots:
+        content:
+          <<: *sidebar-search-group
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.Search
+              id: search-results
+
+- &article-page
+  type: Layout.Sidebar
+  slots:
+    content:
+      type: Layout.ArticleStack
+      slots:
+        card:
+          type: Card.KnowledgeDocument
+          properties:
+            show-titles: false
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: article-list
+      slots:
+        content:
+          type: ContentGroup.ContentGroup
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.ArticleContext
+              id: article-list
+
+root:
+  shortdef: 'Controller.Mesh(theme: preset_b)'
+  slots:
+    window:
+      type: Window.Simple
+      slots:
+        search: Navigation.SearchBox
+        content:
+          type: ContentGroup.MediaLightbox
+          slots:
+            card: Card.Media
+            content:
+              type: Layout.Navigation
+              slots:
+                content:
+                  type: Pager.ParallaxBackground
+                  slots:
+                    home-page: *home-page
+                    set-page: *set-page
+                    search-page: *search-page
+                    article-page: *article-page
+
+com.endlessm.publimetro.es_MX
+---
+AppId: es
+Number of Categories: 4
+Category/Article data: 
+{ 'Matemática': 3,
+  Lenguaje: 3,
+  'Ciencia Salud y Medio Ambiente': 3,
+  'Estudios Sociales': 5 }
+Template Type:!import B
+
+---
+AppId: es
+Number of Categories: 4
+Category/Article data: 
+{ 'Matemática': 3,
+  Lenguaje: 3,
+  'Ciencia Salud y Medio Ambiente': 4,
+  'Estudios Sociales': 5 }
+Template Type:!import B
+
+---
+AppId: es
+Number of Categories: 4
+Category/Article data: 
+{ 'Matemática': 3,
+  Lenguaje: 3,
+  'Ciencia Salud y Medio Ambiente': 4,
+  'Estudios Sociales': 5 }
+Template Type:!import B
+
+---
+AppId: es
+Number of Categories: 4
+Category/Article data: 
+{ 'Matemática': 3,
+  Lenguaje: 3,
+  'Ciencia Salud y Medio Ambiente': 7,
+  'Estudios Sociales': 3 }
+Template Type:!import B
+
+---
+AppId: es
+Number of Categories: 4
+Category/Article data: 
+{ 'Matemática': 3,
+  Lenguaje: 3,
+  'Ciencia Salud y Medio Ambiente': 6,
+  'Estudios Sociales': 3 }
+Template Type:!import B
+
+---
+AppId: es
+Number of Categories: 4
+Category/Article data: 
+{ 'Matemática': 3,
+  Lenguaje: 3,
+  'Ciencia Salud y Medio Ambiente': 6,
+  'Estudios Sociales': 3 }
+Template Type:!import B
+
+---
+AppId: es
+Number of Categories: 5
+Category/Article data: 
+{ '7º Grado': 3,
+  '8º Grado': 3,
+  '9º Grado': 3,
+  '1º Bachillerato': 2,
+  '2º Bachillerato': 2 }
+Template Type:!import B
+
+---
+AppId: com.endlessm.soccer.en
+Number of Categories: 5
+Category/Article data: 
+{ 'International Teams': 128,
+  'History of Football ': 24,
+  'Football Players': 30,
+  'Football Players,History of Football ': 15,
+  'About the Sport ': 22 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.soccer.en_BD
+Number of Categories: 5
+Category/Article data: 
+{ 'International Teams': 128,
+  'History of Football ': 24,
+  'Football Players': 30,
+  'Football Players,History of Football ': 15,
+  'About the Sport ': 22 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.soccer.es
+Number of Categories: 4
+Category/Article data: 
+{ 'Equipos internacionales ': 196,
+  'Jugadores ': 65,
+  'Historia del fútbol ': 38,
+  'Sobre el deporte': 39 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.soccer.es_GT
+Number of Categories: 6
+Category/Article data: 
+{ 'Equipos internacionales ': 196,
+  'Fútbol en Guatemala': 52,
+  'Jugadores ': 65,
+  'Historia del fútbol ': 38,
+  'Sobre el deporte': 39,
+  'Fútbol en Guatemala,Historia del fútbol ': 2 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.soccer.pt
+Number of Categories: 7
+Category/Article data: 
+{ 'Jogadores de Futebol': 525,
+  'Times Internacionais': 163,
+  'Times Brasileiros': 102,
+  'História do Futebol': 23,
+  'Sobre o Esporte': 16,
+  'História do Futebol,Jogadores de Futebol': 9,
+  'História do Futebol,Times Brasileiros': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.social_enterprises.es_GT
+Number of Categories: 14
+Category/Article data: 
+{ 'Administración': 24,
+  'Administración,Liderando': 4,
+  'Administración,¿Qué es?': 1,
+  'Finanzas y recursos': 2,
+  Liderando: 15,
+  'Administración,Finanzas y recursos': 1,
+  Empezando: 4,
+  Marketing: 2,
+  'Finanzas y recursos,Liderando': 2,
+  'Empezando,Liderando': 1,
+  'Empezando,¿Qué es?': 1,
+  'Administración,Empezando': 7,
+  'Administración,Empezando,Liderando': 1,
+  '¿Qué es?': 3 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.socialsciences.en
+Number of Categories: 6
+Category/Article data: 
+{ 'Social Interaction': 78,
+  Humanities: 35,
+  'Applied Social Science': 30,
+  'Social Evolution': 20,
+  Psychology: 45,
+  'Law & Politics': 36 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.socialsciences.es
+Number of Categories: 6
+Category/Article data: 
+{ 'Psicología': 66,
+  'Interración social': 113,
+  'Ciencias sociales aplicadas': 49,
+  'Ley y política': 51,
+  Humanidades: 50,
+  'Evolución social': 30 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.socialsciences.es_GT
+Number of Categories: 7
+Category/Article data: 
+{ 'Psicología': 66,
+  'Interración social': 113,
+  'Ciencias sociales aplicadas': 49,
+  Humanidades: 65,
+  'Ley y política': 69,
+  'Evolución social': 30,
+  'Ciencias sociales aplicadas,Humanidades,Ley y política': 2 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.socialsciences.pt
+Number of Categories: 6
+Category/Article data: 
+{ 'Ciências Humanas': 32,
+  'Ciências Sociais Aplicadas': 24,
+  Psicologia: 40,
+  'Interação Social': 69,
+  'Evolução Social': 18,
+  'Política e Direito': 32 }
+Template Type:!import 'A'
+
+com.endlessm.soy502.es_GT
+---
+AppId: es
+Number of Categories: 2
+Category/Article data: 
+{ 'Guaraní - Castellano': 31, 'Castellano - Guaraní': 28 }
+Template Type:---
+defines:
+- &sidebar-list-slots
+  arrangement:
+    shortdef: 'Arrangement.List(orientation: vertical)'
+    slots:
+      card: Card.Title
+  no-results: 'ContentGroup.NoResultsMessage(valign: center)'
+
+- &home-page
+  shortdef: 'Layout.Box(orientation: vertical)'
+  slots:
+    contents:
+    - type: Banner.App
+      properties:
+        valign: center
+        halign: center
+    - shortdef: 'ContentGroup.ContentGroup(expand: true)'
+      slots:
+        arrangement:
+          type: Arrangement.TiledGrid
+          slots:
+            card: Card.LegacyPost
+        selection: Selection.AllSets
+
+- &set-page
+  type: Layout.Sidebar
+  slots:
+    content:
+      type: Layout.ArticleStack
+      slots:
+        card:
+          type: Card.KnowledgeDocument
+          properties:
+            show-titles: false
+      references:
+          selection: article-list
+    sidebar:
+      type: Layout.InfiniteScrolling
+      references:
+        lazy-load: article-list
+      slots:
+        content:
+          type: ContentGroup.ContentGroup
+          slots:
+            <<: *sidebar-list-slots
+            selection:
+              type: Selection.ArticleContext
+              id: article-list
+              slots:
+                order:
+                  type: Order.Alphabetical
+                  properties:
+                    case-sensitive: true
+
+root:
+  shortdef: 'Controller.Mesh(theme: preset_b)'
+  slots:
+    window:
+      type: Window.Simple
+      slots:
+        content:
+          type: ContentGroup.MediaLightbox
+          slots:
+            card: Card.Media
+            content:
+              type: Pager.ParallaxBackground
+              slots:
+                home-page: *home-page
+                set-page: *set-page
+
+---
+AppId: com.endlessm.teachers_portal_kindergarten.pt_BR
+Number of Categories: 1
+Category/Article data: 
+{ undefined: 1638 }
+Template Type:!import 'library-list'
+
+---
+AppId: com.endlessm.teachers_portal_professional.pt_BR
+Number of Categories: 1
+Category/Article data: 
+{ undefined: 276 }
+Template Type:!import 'library-list'
+
+---
+AppId: com.endlessm.textbooks.en
+Number of Categories: 3
+Category/Article data: 
+{ Science: 13, Math: 14, 'For Teachers': 7 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.travel.bn_BD
+Number of Categories: 137
+Category/Article data: 
+{ 'Beautiful Beaches,Oceania,Tourist Attractions': 1,
+  'Architecture,Europe,Historical Landmarks,Tourist Attractions': 3,
+  'Architecture,Asia': 5,
+  'Africa,Archeology & Ancient Culture,Historical Landmarks': 1,
+  'Beautiful Beaches,North America,Tourist Attractions': 13,
+  'South America,Tourist Attractions,Wonders of Nature': 8,
+  'Archeology & Ancient Culture,Europe,Historical Landmarks,Tourist Attractions': 4,
+  'Europe,Tourist Attractions': 9,
+  'Archeology & Ancient Culture,Asia': 3,
+  'Beautiful Beaches,North America': 7,
+  'Beautiful Beaches,Europe,Tourist Attractions': 10,
+  'Europe,Gardens,Historical Landmarks,Tourist Attractions': 2,
+  'Africa,Tourist Attractions,Wonders of Nature': 4,
+  'Archeology & Ancient Culture,Architecture,Europe,Historical Landmarks,Tourist Attractions': 1,
+  'Europe,Snowscapes,Tourist Attractions': 1,
+  'Europe,Snowscapes,Tourist Attractions,Wonders of Nature': 1,
+  'South America,Wonders of Nature': 14,
+  'Archeology & Ancient Culture,Asia,Castles & Palaces': 1,
+  'Polar,Snowscapes': 1,
+  'Archeology & Ancient Culture,South America,Tourist Attractions': 2,
+  'Snowscapes,South America,Tourist Attractions,Wonders of Nature': 1,
+  'Countries,Europe': 37,
+  'Archeology & Ancient Culture,Asia,Tourist Attractions': 2,
+  'Archeology & Ancient Culture,Asia,Religious Sites & Places of Worship,Tourist Attractions': 2,
+  'Beautiful Beaches,Europe,Historical Landmarks,Tourist Attractions': 5,
+  'Countries,Polar': 1,
+  'Central America,Historical Landmarks,Tourist Attractions': 1,
+  'Countries,North America': 11,
+  'Asia,Beautiful Beaches,Tourist Attractions': 6,
+  'North America,Tourist Attractions,Wonders of Nature': 6,
+  'Architecture,Europe,Historical Landmarks': 1,
+  'Europe,Wonders of Nature': 8,
+  'Countries,South America': 10,
+  'Beautiful Beaches,South America': 7,
+  'North America,Tourist Attractions': 15,
+  'Europe,Historical Landmarks,Religious Sites & Places of Worship': 1,
+  'Oceania,Tourist Attractions': 11,
+  'Countries,Oceania': 1,
+  'Oceania,Wonders of Nature': 6,
+  'Africa,Archeology & Ancient Culture': 1,
+  'Asia,Tourist Attractions,Wonders of Nature': 2,
+  'Africa,Historical Landmarks,Wonders of Nature': 1,
+  'North America,Snowscapes,Wonders of Nature': 3,
+  'Asia,Tourist Attractions': 14,
+  'Central America,Tourist Attractions,Wonders of Nature': 5,
+  'North America,Religious Sites & Places of Worship': 2,
+  'Religious Sites & Places of Worship,South America': 3,
+  'Asia,Religious Sites & Places of Worship,Tourist Attractions': 9,
+  'Archeology & Ancient Culture,Asia,Historical Landmarks,Tourist Attractions': 1,
+  'Central America,Countries': 8,
+  'Africa,Archeology & Ancient Culture,Historical Landmarks,Wonders of Nature': 1,
+  'Europe,Historical Landmarks,Tourist Attractions': 5,
+  'Asia,Historical Landmarks,Religious Sites & Places of Worship,Tourist Attractions': 1,
+  'Oceania,Snowscapes': 5,
+  'Beautiful Beaches,North America,Wonders of Nature': 1,
+  'Europe,Religious Sites & Places of Worship,Tourist Attractions': 7,
+  'Europe,Gardens': 13,
+  'Beautiful Beaches,Central America': 3,
+  'Asia,Religious Sites & Places of Worship': 16,
+  'South America,Tourist Attractions': 17,
+  'Asia,Beautiful Beaches': 5,
+  'North America,Snowscapes,Tourist Attractions': 1,
+  'Architecture,South America': 1,
+  'Castles & Palaces,Europe,Historical Landmarks,Tourist Attractions': 2,
+  'Asia,Countries': 22,
+  'Gardens,North America': 2,
+  'Africa,Wonders of Nature': 9,
+  'Architecture,North America,Tourist Attractions': 2,
+  'Africa,Tourist Attractions': 9,
+  'Archeology & Ancient Culture,North America,Tourist Attractions': 5,
+  'Europe,Religious Sites & Places of Worship': 14,
+  'Africa,Historical Landmarks,Tourist Attractions': 4,
+  'Africa,Archeology & Ancient Culture,Tourist Attractions': 2,
+  'North America,Wonders of Nature': 12,
+  'Castles & Palaces,Historical Landmarks,North America,Tourist Attractions': 1,
+  'Castles & Palaces,Europe': 1,
+  'Africa,Castles & Palaces,Historical Landmarks': 1,
+  'Snowscapes,South America': 3,
+  'Europe,Snowscapes': 10,
+  'Archeology & Ancient Culture,South America': 1,
+  'Historical Landmarks,North America,Tourist Attractions': 10,
+  'Asia,Castles & Palaces,Gardens': 1,
+  'Asia,Wonders of Nature': 12,
+  'Africa,Religious Sites & Places of Worship': 1,
+  'Central America,Wonders of Nature': 10,
+  'Archeology & Ancient Culture,Europe,Tourist Attractions': 2,
+  'Archeology & Ancient Culture,Central America': 5,
+  'Archeology & Ancient Culture,Europe,Religious Sites & Places of Worship,Tourist Attractions': 3,
+  'Africa,Historical Landmarks': 1,
+  'Architecture,Europe,Religious Sites & Places of Worship': 2,
+  'Africa,Countries': 7,
+  'Africa,Archeology & Ancient Culture,Historical Landmarks,Tourist Attractions': 4,
+  'Architecture,Europe,Tourist Attractions': 1,
+  'Central America,Religious Sites & Places of Worship': 3,
+  'Africa,Archeology & Ancient Culture,Castles & Palaces,Religious Sites & Places of Worship': 1,
+  'Countries,Oceania,Tourist Attractions': 4,
+  'Asia,Historical Landmarks,Tourist Attractions': 1,
+  'Central America,Tourist Attractions': 5,
+  'Beautiful Beaches,Oceania,Wonders of Nature': 1,
+  'Castles & Palaces,Europe,Gardens,Tourist Attractions': 1,
+  'Architecture,Asia,Religious Sites & Places of Worship,Tourist Attractions': 1,
+  'Asia,Snowscapes': 4,
+  'North America,Snowscapes': 5,
+  'Archeology & Ancient Culture,Europe,Historical Landmarks': 3,
+  'Archeology & Ancient Culture,Asia,Historical Landmarks': 2,
+  'Asia,Gardens': 10,
+  'Gardens,South America': 1,
+  'Beautiful Beaches,South America,Tourist Attractions': 6,
+  'Polar,Tourist Attractions,Wonders of Nature': 1,
+  'North America,Snowscapes,Tourist Attractions,Wonders of Nature': 1,
+  'Beautiful Beaches,Central America,Tourist Attractions': 2,
+  'Architecture,Asia,Religious Sites & Places of Worship': 2,
+  'Religious Sites & Places of Worship,South America,Tourist Attractions,Wonders of Nature': 1,
+  'Asia,Countries,Tourist Attractions': 2,
+  'Africa,Architecture,Historical Landmarks,Tourist Attractions': 1,
+  'Gardens,North America,Wonders of Nature': 1,
+  'Castles & Palaces,North America,Tourist Attractions': 1,
+  'Polar,Wonders of Nature': 5,
+  'Oceania,Snowscapes,Wonders of Nature': 1,
+  'Asia,Religious Sites & Places of Worship,Tourist Attractions,Wonders of Nature': 1,
+  'Castles & Palaces,Europe,Tourist Attractions': 1,
+  'Castles & Palaces,Europe,Gardens': 1,
+  'Archeology & Ancient Culture,Architecture,Europe,Religious Sites & Places of Worship': 1,
+  'Architecture,Asia,Beautiful Beaches,Tourist Attractions': 1,
+  'Archeology & Ancient Culture,Europe': 2,
+  'Polar,Tourist Attractions': 3,
+  'Archeology & Ancient Culture,Central America,Tourist Attractions': 3,
+  'Snowscapes,South America,Tourist Attractions': 1,
+  'Beautiful Beaches,Europe': 1,
+  'Historical Landmarks,North America,Wonders of Nature': 1,
+  'Countries,South America,Tourist Attractions': 1,
+  'Architecture,Asia,Historical Landmarks,Tourist Attractions': 1,
+  'Archeology & Ancient Culture,North America': 2,
+  'Archeology & Ancient Culture,North America,Religious Sites & Places of Worship': 1,
+  'Archeology & Ancient Culture,South America,Wonders of Nature': 1,
+  'Castles & Palaces,Europe,Historical Landmarks': 1,
+  'Countries,Europe,Religious Sites & Places of Worship,Tourist Attractions': 1 }
+Template Type:!import 'buffet'
+
+---
+AppId: com.endlessm.travel.en
+Number of Categories: 137
+Category/Article data: 
+{ 'Beautiful Beaches,Oceania,Tourist Attractions': 1,
+  'Architecture,Europe,Historical Landmarks,Tourist Attractions': 3,
+  'Architecture,Asia': 5,
+  'Africa,Archeology & Ancient Culture,Historical Landmarks': 1,
+  'Beautiful Beaches,North America,Tourist Attractions': 13,
+  'South America,Tourist Attractions,Wonders of Nature': 8,
+  'Archeology & Ancient Culture,Europe,Historical Landmarks,Tourist Attractions': 4,
+  'Europe,Tourist Attractions': 9,
+  'Archeology & Ancient Culture,Asia': 3,
+  'Beautiful Beaches,North America': 7,
+  'Beautiful Beaches,Europe,Tourist Attractions': 10,
+  'Europe,Gardens,Historical Landmarks,Tourist Attractions': 2,
+  'Africa,Tourist Attractions,Wonders of Nature': 4,
+  'Archeology & Ancient Culture,Architecture,Europe,Historical Landmarks,Tourist Attractions': 1,
+  'Europe,Snowscapes,Tourist Attractions': 1,
+  'Europe,Snowscapes,Tourist Attractions,Wonders of Nature': 1,
+  'South America,Wonders of Nature': 14,
+  'Archeology & Ancient Culture,Asia,Castles & Palaces': 1,
+  'Polar,Snowscapes': 1,
+  'Archeology & Ancient Culture,South America,Tourist Attractions': 2,
+  'Snowscapes,South America,Tourist Attractions,Wonders of Nature': 1,
+  'Countries,Europe': 37,
+  'Archeology & Ancient Culture,Asia,Tourist Attractions': 2,
+  'Archeology & Ancient Culture,Asia,Religious Sites & Places of Worship,Tourist Attractions': 2,
+  'Beautiful Beaches,Europe,Historical Landmarks,Tourist Attractions': 5,
+  'Countries,Polar': 1,
+  'Central America,Historical Landmarks,Tourist Attractions': 1,
+  'Countries,North America': 11,
+  'Asia,Beautiful Beaches,Tourist Attractions': 6,
+  'North America,Tourist Attractions,Wonders of Nature': 6,
+  'Architecture,Europe,Historical Landmarks': 1,
+  'Europe,Wonders of Nature': 8,
+  'Countries,South America': 10,
+  'Beautiful Beaches,South America': 7,
+  'North America,Tourist Attractions': 15,
+  'Europe,Historical Landmarks,Religious Sites & Places of Worship': 1,
+  'Oceania,Tourist Attractions': 11,
+  'Countries,Oceania': 1,
+  'Oceania,Wonders of Nature': 6,
+  'Africa,Archeology & Ancient Culture': 1,
+  'Asia,Tourist Attractions,Wonders of Nature': 2,
+  'Africa,Historical Landmarks,Wonders of Nature': 1,
+  'North America,Snowscapes,Wonders of Nature': 3,
+  'Asia,Tourist Attractions': 14,
+  'Central America,Tourist Attractions,Wonders of Nature': 5,
+  'North America,Religious Sites & Places of Worship': 2,
+  'Religious Sites & Places of Worship,South America': 3,
+  'Asia,Religious Sites & Places of Worship,Tourist Attractions': 9,
+  'Archeology & Ancient Culture,Asia,Historical Landmarks,Tourist Attractions': 1,
+  'Central America,Countries': 8,
+  'Africa,Archeology & Ancient Culture,Historical Landmarks,Wonders of Nature': 1,
+  'Europe,Historical Landmarks,Tourist Attractions': 5,
+  'Asia,Historical Landmarks,Religious Sites & Places of Worship,Tourist Attractions': 1,
+  'Oceania,Snowscapes': 5,
+  'Beautiful Beaches,North America,Wonders of Nature': 1,
+  'Europe,Religious Sites & Places of Worship,Tourist Attractions': 7,
+  'Europe,Gardens': 13,
+  'Beautiful Beaches,Central America': 3,
+  'Asia,Religious Sites & Places of Worship': 16,
+  'South America,Tourist Attractions': 17,
+  'Asia,Beautiful Beaches': 5,
+  'North America,Snowscapes,Tourist Attractions': 1,
+  'Architecture,South America': 1,
+  'Castles & Palaces,Europe,Historical Landmarks,Tourist Attractions': 2,
+  'Asia,Countries': 22,
+  'Gardens,North America': 2,
+  'Africa,Wonders of Nature': 9,
+  'Architecture,North America,Tourist Attractions': 2,
+  'Africa,Tourist Attractions': 9,
+  'Archeology & Ancient Culture,North America,Tourist Attractions': 5,
+  'Europe,Religious Sites & Places of Worship': 14,
+  'Africa,Historical Landmarks,Tourist Attractions': 4,
+  'Africa,Archeology & Ancient Culture,Tourist Attractions': 2,
+  'North America,Wonders of Nature': 12,
+  'Castles & Palaces,Historical Landmarks,North America,Tourist Attractions': 1,
+  'Castles & Palaces,Europe': 1,
+  'Africa,Castles & Palaces,Historical Landmarks': 1,
+  'Snowscapes,South America': 3,
+  'Europe,Snowscapes': 10,
+  'Archeology & Ancient Culture,South America': 1,
+  'Historical Landmarks,North America,Tourist Attractions': 10,
+  'Asia,Castles & Palaces,Gardens': 1,
+  'Asia,Wonders of Nature': 12,
+  'Africa,Religious Sites & Places of Worship': 1,
+  'Central America,Wonders of Nature': 10,
+  'Archeology & Ancient Culture,Europe,Tourist Attractions': 2,
+  'Archeology & Ancient Culture,Central America': 5,
+  'Archeology & Ancient Culture,Europe,Religious Sites & Places of Worship,Tourist Attractions': 3,
+  'Africa,Historical Landmarks': 1,
+  'Architecture,Europe,Religious Sites & Places of Worship': 2,
+  'Africa,Countries': 7,
+  'Africa,Archeology & Ancient Culture,Historical Landmarks,Tourist Attractions': 4,
+  'Architecture,Europe,Tourist Attractions': 1,
+  'Central America,Religious Sites & Places of Worship': 3,
+  'Africa,Archeology & Ancient Culture,Castles & Palaces,Religious Sites & Places of Worship': 1,
+  'Countries,Oceania,Tourist Attractions': 4,
+  'Asia,Historical Landmarks,Tourist Attractions': 1,
+  'Central America,Tourist Attractions': 5,
+  'Beautiful Beaches,Oceania,Wonders of Nature': 1,
+  'Castles & Palaces,Europe,Gardens,Tourist Attractions': 1,
+  'Architecture,Asia,Religious Sites & Places of Worship,Tourist Attractions': 1,
+  'Asia,Snowscapes': 4,
+  'North America,Snowscapes': 5,
+  'Archeology & Ancient Culture,Europe,Historical Landmarks': 3,
+  'Archeology & Ancient Culture,Asia,Historical Landmarks': 2,
+  'Asia,Gardens': 10,
+  'Gardens,South America': 1,
+  'Beautiful Beaches,South America,Tourist Attractions': 6,
+  'Polar,Tourist Attractions,Wonders of Nature': 1,
+  'North America,Snowscapes,Tourist Attractions,Wonders of Nature': 1,
+  'Beautiful Beaches,Central America,Tourist Attractions': 2,
+  'Architecture,Asia,Religious Sites & Places of Worship': 2,
+  'Religious Sites & Places of Worship,South America,Tourist Attractions,Wonders of Nature': 1,
+  'Asia,Countries,Tourist Attractions': 2,
+  'Africa,Architecture,Historical Landmarks,Tourist Attractions': 1,
+  'Gardens,North America,Wonders of Nature': 1,
+  'Castles & Palaces,North America,Tourist Attractions': 1,
+  'Polar,Wonders of Nature': 5,
+  'Oceania,Snowscapes,Wonders of Nature': 1,
+  'Asia,Religious Sites & Places of Worship,Tourist Attractions,Wonders of Nature': 1,
+  'Castles & Palaces,Europe,Tourist Attractions': 1,
+  'Castles & Palaces,Europe,Gardens': 1,
+  'Archeology & Ancient Culture,Architecture,Europe,Religious Sites & Places of Worship': 1,
+  'Architecture,Asia,Beautiful Beaches,Tourist Attractions': 1,
+  'Archeology & Ancient Culture,Europe': 2,
+  'Polar,Tourist Attractions': 3,
+  'Archeology & Ancient Culture,Central America,Tourist Attractions': 3,
+  'Snowscapes,South America,Tourist Attractions': 1,
+  'Beautiful Beaches,Europe': 1,
+  'Historical Landmarks,North America,Wonders of Nature': 1,
+  'Countries,South America,Tourist Attractions': 1,
+  'Architecture,Asia,Historical Landmarks,Tourist Attractions': 1,
+  'Archeology & Ancient Culture,North America': 2,
+  'Archeology & Ancient Culture,North America,Religious Sites & Places of Worship': 1,
+  'Archeology & Ancient Culture,South America,Wonders of Nature': 1,
+  'Castles & Palaces,Europe,Historical Landmarks': 1,
+  'Countries,Europe,Religious Sites & Places of Worship,Tourist Attractions': 1 }
+Template Type:!import 'buffet'
+
+---
+AppId: com.endlessm.travel.es
+Number of Categories: 161
+Category/Article data: 
+{ 'Europa,Sitios religiosos': 9,
+  'Arqueología y cultura antigua,Atracciones turísticas,Monumentos históricos,Sitios religiosos,África': 1,
+  'Norteamérica,Playas bellas': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa,Monumentos históricos': 7,
+  'Arqueología y cultura antigua,Asia': 1,
+  'Atracciones turísticas,Castillos y palacios,Europa,Monumentos históricos': 10,
+  'Atracciones turísticas,Maravillas de la naturaleza,África': 6,
+  'Europa,Países': 36,
+  'Atracciones turísticas,Europa,Playas bellas': 8,
+  'Atracciones turísticas,Europa': 20,
+  'Europa,Maravillas de la naturaleza': 7,
+  'Maravillas de la naturaleza,Sudamérica': 3,
+  'Centroamérica': 5,
+  'Norteamérica': 2,
+  'Sudamérica': 1,
+  'Europa,Paisajes nevados,Países': 1,
+  'Arqueología y cultura antigua,Asia,Atracciones turísticas': 3,
+  'Arqueología y cultura antigua,Asia,Atracciones turísticas,Monumentos históricos,Sitios religiosos': 1,
+  'Atracciones turísticas,Europa,Monumentos históricos,Playas bellas': 5,
+  'Norteamérica,Países': 11,
+  'Paisajes nevados,Países': 1,
+  'Asia,Países': 21,
+  'Asia,Atracciones turísticas': 2,
+  'Europa,Monumentos históricos': 5,
+  'Países,Sudamérica': 10,
+  Asia: 3,
+  'Arquitectura,Atracciones turísticas,Oceanía': 5,
+  'Oceanía,Países': 1,
+  'Asia,Atracciones turísticas,Monumentos históricos': 3,
+  'Centroamérica,Países': 8,
+  'Asia,Maravillas de la naturaleza': 7,
+  'Asia,Atracciones turísticas,Maravillas de la naturaleza,Playas bellas': 1,
+  'Arquitectura,Asia,Atracciones turísticas,Monumentos históricos': 1,
+  'Arquitectura,Sitios religiosos,Sudamérica': 2,
+  'Atracciones turísticas,Europa,Monumentos históricos,Sitios religiosos': 14,
+  'Arquitectura,Norteamérica,Sitios religiosos': 2,
+  'Asia,Monumentos históricos,Sitios religiosos': 5,
+  'Asia,Atracciones turísticas,Sitios religiosos': 4,
+  'Atracciones turísticas,Europa,Monumentos históricos': 26,
+  Europa: 3,
+  'Sitios religiosos,África': 1,
+  'Atracciones turísticas,Norteamérica,Playas bellas': 3,
+  'Centroamérica,Playas bellas': 2,
+  'Arquitectura,Atracciones turísticas,Sudamérica': 10,
+  'Asia,Playas bellas': 2,
+  'Asia,Sitios religiosos': 10,
+  'Arquitectura,Asia': 7,
+  'Arqueología y cultura antigua,Norteamérica': 3,
+  'Monumentos históricos,Norteamérica': 4,
+  'Atracciones turísticas,Europa,Jardines espectaculares': 3,
+  'Norteamérica,Paisajes nevados,Países': 1,
+  'Atracciones turísticas,Centroamérica': 2,
+  'Europa,Monumentos históricos,Sitios religiosos': 4,
+  'Atracciones turísticas,Europa,Maravillas de la naturaleza': 5,
+  'Arquitectura,Atracciones turísticas,Norteamérica': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Sudamérica': 3,
+  'Atracciones turísticas,Monumentos históricos,África': 2,
+  'Arquitectura,Atracciones turísticas,Europa': 7,
+  'Atracciones turísticas,Monumentos históricos,Norteamérica': 10,
+  'Asia,Atracciones turísticas,Castillos y palacios,Monumentos históricos': 3,
+  'Arqueología y cultura antigua,Atracciones turísticas,Castillos y palacios,Norteamérica': 1,
+  'Atracciones turísticas,Castillos y palacios,Europa': 12,
+  'Castillos y palacios,Europa': 5,
+  'Atracciones turísticas,Castillos y palacios,Europa,Jardines espectaculares': 3,
+  'Atracciones turísticas,Castillos y palacios,Norteamérica': 1,
+  'Arqueología y cultura antigua,Europa,Monumentos históricos': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Sudamérica': 5,
+  'Maravillas de la naturaleza,Norteamérica': 2,
+  'Centroamérica,Sitios religiosos': 3,
+  'Atracciones turísticas,Sitios religiosos,Sudamérica': 2,
+  'Atracciones turísticas,Europa,Sitios religiosos': 4,
+  'Atracciones turísticas,Centroamérica,Norteamérica,Playas bellas': 1,
+  'Arqueología y cultura antigua,Centroamérica': 7,
+  'Atracciones turísticas,Jardines espectaculares,Norteamérica': 1,
+  'Paisajes nevados,Sudamérica': 4,
+  'Maravillas de la naturaleza,Paisajes nevados,Sudamérica': 2,
+  'Europa,Maravillas de la naturaleza,Paisajes nevados': 2,
+  'Europa,Paisajes nevados': 9,
+  'Arqueología y cultura antigua,Sudamérica': 2,
+  'Jardines espectaculares,Norteamérica': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Norteamérica': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa': 7,
+  'Arqueología y cultura antigua,Monumentos históricos,África': 2,
+  'Atracciones turísticas,África': 4,
+  'Europa,Países,Sitios religiosos': 1,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa,Sitios religiosos': 2,
+  'Atracciones turísticas,Europa,Maravillas de la naturaleza,Playas bellas': 1,
+  'Atracciones turísticas,Monumentos históricos,Sudamérica': 1,
+  'Arqueología y cultura antigua,Atracciones turísticas,África': 4,
+  'Maravillas de la naturaleza,África': 7,
+  'Monumentos históricos,Sitios religiosos,África': 1,
+  'Arquitectura,Monumentos históricos,Norteamérica': 4,
+  'Países,África': 7,
+  'Arqueología y cultura antigua,Atracciones turísticas,Monumentos históricos,África': 3,
+  'Arqueología y cultura antigua,Atracciones turísticas,Monumentos históricos,Norteamérica': 3,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa,Monumentos históricos,Sitios religiosos': 2,
+  'Arqueología y cultura antigua,Castillos y palacios,Monumentos históricos,África': 1,
+  'Arquitectura,Europa,Monumentos históricos': 2,
+  'Atracciones turísticas,Oceanía': 3,
+  'Atracciones turísticas,Oceanía,Países': 2,
+  'Atracciones turísticas,Maravillas de la naturaleza,Paisajes nevados,Sudamérica': 3,
+  'Atracciones turísticas,Maravillas de la naturaleza,Norteamérica': 6,
+  'Asia,Castillos y palacios,Monumentos históricos': 1,
+  'Maravillas de la naturaleza,Oceanía': 5,
+  'Atracciones turísticas,Norteamérica': 12,
+  'Arquitectura,Asia,Atracciones turísticas': 7,
+  'Asia,Monumentos históricos': 2,
+  'Playas bellas,Sudamérica': 5,
+  'Arqueología y cultura antigua,Atracciones turísticas,Maravillas de la naturaleza,Sudamérica': 2,
+  'Atracciones turísticas,Oceanía,Playas bellas': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Playas bellas,Sudamérica': 2,
+  'Centroamérica,Maravillas de la naturaleza': 6,
+  'Asia,Atracciones turísticas,Jardines espectaculares,Monumentos históricos': 1,
+  'Europa,Jardines espectaculares': 8,
+  'Asia,Atracciones turísticas,Jardines espectaculares': 1,
+  'Atracciones turísticas,Jardines espectaculares,Sudamérica': 1,
+  'Asia,Jardines espectaculares': 4,
+  'Jardines espectaculares,Sudamérica': 1,
+  'Asia,Atracciones turísticas,Monumentos históricos,Sitios religiosos': 2,
+  'Atracciones turísticas,Playas bellas,Sudamérica': 2,
+  'Maravillas de la naturaleza,Paisajes nevados,África': 1,
+  'Atracciones turísticas,Playas bellas,África': 3,
+  'Arquitectura,Atracciones turísticas,Jardines espectaculares,Maravillas de la naturaleza,Norteamérica': 1,
+  'Asia,Atracciones turísticas,Maravillas de la naturaleza': 1,
+  'Arquitectura,Monumentos históricos,África': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Oceanía': 1,
+  'Norteamérica,Paisajes nevados': 1,
+  'Asia,Maravillas de la naturaleza,Paisajes nevados': 1,
+  'Maravillas de la naturaleza,Norteamérica,Paisajes nevados': 3,
+  'Arqueología y cultura antigua,Monumentos históricos,Norteamérica': 1,
+  'Oceanía,Paisajes nevados': 1,
+  'Arquitectura,Atracciones turísticas,Monumentos históricos,Norteamérica': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Oceanía,Países': 1,
+  'Oceanía': 1,
+  'Arqueología y cultura antigua,Europa': 3,
+  'Arquitectura,Europa': 1,
+  'Arquitectura,Castillos y palacios,Monumentos históricos,Norteamérica': 1,
+  'Castillos y palacios,Europa,Jardines espectaculares': 1,
+  'Asia,Castillos y palacios,Jardines espectaculares': 1,
+  'Castillos y palacios,Europa,Monumentos históricos': 1,
+  'Arquitectura,Atracciones turísticas,Europa,Jardines espectaculares': 2,
+  'Maravillas de la naturaleza,Playas bellas,Sudamérica': 1,
+  'Arqueología y cultura antigua,Asia,Monumentos históricos': 2,
+  'Arqueología y cultura antigua,Asia,Atracciones turísticas,Sitios religiosos': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Oceanía,Playas bellas': 1,
+  'Asia,Castillos y palacios,Monumentos históricos,Sitios religiosos': 1,
+  'Atracciones turísticas,Sudamérica': 3,
+  'Arquitectura,Oceanía': 1,
+  'Monumentos históricos,África': 1,
+  'Atracciones turísticas,Europa,Jardines espectaculares,Monumentos históricos': 1,
+  'Atracciones turísticas,Centroamérica,Maravillas de la naturaleza,Playas bellas': 1,
+  'Sitios religiosos,Sudamérica': 1,
+  'África': 2,
+  'Arquitectura,Asia,Monumentos históricos,Sitios religiosos': 1,
+  'Arquitectura,Atracciones turísticas,Oceanía,Playas bellas': 1,
+  'Arquitectura,Asia,Atracciones turísticas,Monumentos históricos,Sitios religiosos': 1,
+  'Arquitectura,Atracciones turísticas,Europa,Sitios religiosos': 1,
+  'Arquitectura,Asia,Atracciones turísticas,Sitios religiosos': 1,
+  'Arqueología y cultura antigua,Atracciones turísticas,Centroamérica': 1,
+  'Arquitectura,Atracciones turísticas,Europa,Monumentos históricos': 1,
+  'Arquitectura,Atracciones turísticas,Castillos y palacios,Europa,Monumentos históricos': 1 }
+Template Type:!import 'buffet'
+
+---
+AppId: com.endlessm.travel.es_GT
+Number of Categories: 161
+Category/Article data: 
+{ 'Europa,Sitios religiosos': 9,
+  'Arqueología y cultura antigua,Atracciones turísticas,Monumentos históricos,Sitios religiosos,África': 1,
+  'Norteamérica,Playas bellas': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa,Monumentos históricos': 7,
+  'Arqueología y cultura antigua,Asia': 1,
+  'Atracciones turísticas,Castillos y palacios,Europa,Monumentos históricos': 10,
+  'Atracciones turísticas,Maravillas de la naturaleza,África': 6,
+  'Europa,Países': 36,
+  'Atracciones turísticas,Europa,Playas bellas': 8,
+  'Atracciones turísticas,Europa': 20,
+  'Europa,Maravillas de la naturaleza': 7,
+  'Maravillas de la naturaleza,Sudamérica': 3,
+  'Centroamérica': 5,
+  'Norteamérica': 2,
+  'Sudamérica': 1,
+  'Europa,Paisajes nevados,Países': 1,
+  'Arqueología y cultura antigua,Asia,Atracciones turísticas': 3,
+  'Arqueología y cultura antigua,Asia,Atracciones turísticas,Monumentos históricos,Sitios religiosos': 1,
+  'Atracciones turísticas,Europa,Monumentos históricos,Playas bellas': 5,
+  'Norteamérica,Países': 11,
+  'Paisajes nevados,Países': 1,
+  'Asia,Países': 21,
+  'Asia,Atracciones turísticas': 2,
+  'Europa,Monumentos históricos': 5,
+  'Países,Sudamérica': 10,
+  Asia: 3,
+  'Arquitectura,Atracciones turísticas,Oceanía': 5,
+  'Oceanía,Países': 1,
+  'Asia,Atracciones turísticas,Monumentos históricos': 3,
+  'Centroamérica,Países': 8,
+  'Asia,Maravillas de la naturaleza': 7,
+  'Asia,Atracciones turísticas,Maravillas de la naturaleza,Playas bellas': 1,
+  'Arquitectura,Asia,Atracciones turísticas,Monumentos históricos': 1,
+  'Arquitectura,Sitios religiosos,Sudamérica': 2,
+  'Atracciones turísticas,Europa,Monumentos históricos,Sitios religiosos': 14,
+  'Arquitectura,Norteamérica,Sitios religiosos': 2,
+  'Asia,Monumentos históricos,Sitios religiosos': 5,
+  'Asia,Atracciones turísticas,Sitios religiosos': 4,
+  'Atracciones turísticas,Europa,Monumentos históricos': 26,
+  Europa: 3,
+  'Sitios religiosos,África': 1,
+  'Atracciones turísticas,Norteamérica,Playas bellas': 3,
+  'Centroamérica,Playas bellas': 2,
+  'Arquitectura,Atracciones turísticas,Sudamérica': 10,
+  'Asia,Playas bellas': 2,
+  'Asia,Sitios religiosos': 10,
+  'Arquitectura,Asia': 7,
+  'Arqueología y cultura antigua,Norteamérica': 3,
+  'Monumentos históricos,Norteamérica': 4,
+  'Atracciones turísticas,Europa,Jardines espectaculares': 3,
+  'Norteamérica,Paisajes nevados,Países': 1,
+  'Atracciones turísticas,Centroamérica': 2,
+  'Europa,Monumentos históricos,Sitios religiosos': 4,
+  'Atracciones turísticas,Europa,Maravillas de la naturaleza': 5,
+  'Arquitectura,Atracciones turísticas,Norteamérica': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Sudamérica': 3,
+  'Atracciones turísticas,Monumentos históricos,África': 2,
+  'Arquitectura,Atracciones turísticas,Europa': 7,
+  'Atracciones turísticas,Monumentos históricos,Norteamérica': 10,
+  'Asia,Atracciones turísticas,Castillos y palacios,Monumentos históricos': 3,
+  'Arqueología y cultura antigua,Atracciones turísticas,Castillos y palacios,Norteamérica': 1,
+  'Atracciones turísticas,Castillos y palacios,Europa': 12,
+  'Castillos y palacios,Europa': 5,
+  'Atracciones turísticas,Castillos y palacios,Europa,Jardines espectaculares': 3,
+  'Atracciones turísticas,Castillos y palacios,Norteamérica': 1,
+  'Arqueología y cultura antigua,Europa,Monumentos históricos': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Sudamérica': 5,
+  'Maravillas de la naturaleza,Norteamérica': 2,
+  'Centroamérica,Sitios religiosos': 3,
+  'Atracciones turísticas,Sitios religiosos,Sudamérica': 2,
+  'Atracciones turísticas,Europa,Sitios religiosos': 4,
+  'Atracciones turísticas,Centroamérica,Norteamérica,Playas bellas': 1,
+  'Arqueología y cultura antigua,Centroamérica': 7,
+  'Atracciones turísticas,Jardines espectaculares,Norteamérica': 1,
+  'Paisajes nevados,Sudamérica': 4,
+  'Maravillas de la naturaleza,Paisajes nevados,Sudamérica': 2,
+  'Europa,Maravillas de la naturaleza,Paisajes nevados': 2,
+  'Europa,Paisajes nevados': 9,
+  'Arqueología y cultura antigua,Sudamérica': 2,
+  'Jardines espectaculares,Norteamérica': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Norteamérica': 4,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa': 7,
+  'Arqueología y cultura antigua,Monumentos históricos,África': 2,
+  'Atracciones turísticas,África': 4,
+  'Europa,Países,Sitios religiosos': 1,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa,Sitios religiosos': 2,
+  'Atracciones turísticas,Europa,Maravillas de la naturaleza,Playas bellas': 1,
+  'Atracciones turísticas,Monumentos históricos,Sudamérica': 1,
+  'Arqueología y cultura antigua,Atracciones turísticas,África': 4,
+  'Maravillas de la naturaleza,África': 7,
+  'Monumentos históricos,Sitios religiosos,África': 1,
+  'Arquitectura,Monumentos históricos,Norteamérica': 4,
+  'Países,África': 7,
+  'Arqueología y cultura antigua,Atracciones turísticas,Monumentos históricos,África': 3,
+  'Arqueología y cultura antigua,Atracciones turísticas,Monumentos históricos,Norteamérica': 3,
+  'Arqueología y cultura antigua,Atracciones turísticas,Europa,Monumentos históricos,Sitios religiosos': 2,
+  'Arqueología y cultura antigua,Castillos y palacios,Monumentos históricos,África': 1,
+  'Arquitectura,Europa,Monumentos históricos': 2,
+  'Atracciones turísticas,Oceanía': 3,
+  'Atracciones turísticas,Oceanía,Países': 2,
+  'Atracciones turísticas,Maravillas de la naturaleza,Paisajes nevados,Sudamérica': 3,
+  'Atracciones turísticas,Maravillas de la naturaleza,Norteamérica': 6,
+  'Asia,Castillos y palacios,Monumentos históricos': 1,
+  'Maravillas de la naturaleza,Oceanía': 5,
+  'Atracciones turísticas,Norteamérica': 12,
+  'Arquitectura,Asia,Atracciones turísticas': 7,
+  'Asia,Monumentos históricos': 2,
+  'Playas bellas,Sudamérica': 5,
+  'Arqueología y cultura antigua,Atracciones turísticas,Maravillas de la naturaleza,Sudamérica': 2,
+  'Atracciones turísticas,Oceanía,Playas bellas': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Playas bellas,Sudamérica': 2,
+  'Centroamérica,Maravillas de la naturaleza': 6,
+  'Asia,Atracciones turísticas,Jardines espectaculares,Monumentos históricos': 1,
+  'Europa,Jardines espectaculares': 8,
+  'Asia,Atracciones turísticas,Jardines espectaculares': 1,
+  'Atracciones turísticas,Jardines espectaculares,Sudamérica': 1,
+  'Asia,Jardines espectaculares': 4,
+  'Jardines espectaculares,Sudamérica': 1,
+  'Asia,Atracciones turísticas,Monumentos históricos,Sitios religiosos': 2,
+  'Atracciones turísticas,Playas bellas,Sudamérica': 2,
+  'Maravillas de la naturaleza,Paisajes nevados,África': 1,
+  'Atracciones turísticas,Playas bellas,África': 3,
+  'Arquitectura,Atracciones turísticas,Jardines espectaculares,Maravillas de la naturaleza,Norteamérica': 1,
+  'Asia,Atracciones turísticas,Maravillas de la naturaleza': 1,
+  'Arquitectura,Monumentos históricos,África': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Oceanía': 1,
+  'Norteamérica,Paisajes nevados': 1,
+  'Asia,Maravillas de la naturaleza,Paisajes nevados': 1,
+  'Maravillas de la naturaleza,Norteamérica,Paisajes nevados': 3,
+  'Arqueología y cultura antigua,Monumentos históricos,Norteamérica': 1,
+  'Oceanía,Paisajes nevados': 1,
+  'Arquitectura,Atracciones turísticas,Monumentos históricos,Norteamérica': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Oceanía,Países': 1,
+  'Oceanía': 1,
+  'Arqueología y cultura antigua,Europa': 3,
+  'Arquitectura,Europa': 1,
+  'Arquitectura,Castillos y palacios,Monumentos históricos,Norteamérica': 1,
+  'Castillos y palacios,Europa,Jardines espectaculares': 1,
+  'Asia,Castillos y palacios,Jardines espectaculares': 1,
+  'Castillos y palacios,Europa,Monumentos históricos': 1,
+  'Arquitectura,Atracciones turísticas,Europa,Jardines espectaculares': 2,
+  'Maravillas de la naturaleza,Playas bellas,Sudamérica': 1,
+  'Arqueología y cultura antigua,Asia,Monumentos históricos': 2,
+  'Arqueología y cultura antigua,Asia,Atracciones turísticas,Sitios religiosos': 1,
+  'Atracciones turísticas,Maravillas de la naturaleza,Oceanía,Playas bellas': 1,
+  'Asia,Castillos y palacios,Monumentos históricos,Sitios religiosos': 1,
+  'Atracciones turísticas,Sudamérica': 3,
+  'Arquitectura,Oceanía': 1,
+  'Monumentos históricos,África': 1,
+  'Atracciones turísticas,Europa,Jardines espectaculares,Monumentos históricos': 1,
+  'Atracciones turísticas,Centroamérica,Maravillas de la naturaleza,Playas bellas': 1,
+  'Sitios religiosos,Sudamérica': 1,
+  'África': 2,
+  'Arquitectura,Asia,Monumentos históricos,Sitios religiosos': 1,
+  'Arquitectura,Atracciones turísticas,Oceanía,Playas bellas': 1,
+  'Arquitectura,Asia,Atracciones turísticas,Monumentos históricos,Sitios religiosos': 1,
+  'Arquitectura,Atracciones turísticas,Europa,Sitios religiosos': 1,
+  'Arquitectura,Asia,Atracciones turísticas,Sitios religiosos': 1,
+  'Arqueología y cultura antigua,Atracciones turísticas,Centroamérica': 1,
+  'Arquitectura,Atracciones turísticas,Europa,Monumentos históricos': 1,
+  'Arquitectura,Atracciones turísticas,Castillos y palacios,Europa,Monumentos históricos': 1 }
+Template Type:!import 'buffet'
+
+---
+AppId: com.endlessm.travel.pt
+Number of Categories: 119
+Category/Article data: 
+{ 'Atrações turísticas,Europa,Santuários e destinos religiosos': 16,
+  'Arqueologia e cultura antiga,Atrações turísticas,África': 4,
+  'América do Norte,Praias paradisíacas': 4,
+  'Arqueologia e cultura antiga,Arquitetura,Atrações turísticas,Europa,Monumentos históricos': 1,
+  'Países,Ásia': 32,
+  'Europa,Países': 40,
+  'Atrações turísticas,Europa,Praias paradisíacas': 5,
+  'Arquitetura,Atrações turísticas,Castelos e palácios,Europa,Monumentos históricos': 1,
+  'Destinos de neve,Europa,Maravilhas da natureza': 1,
+  'América do Sul,Maravilhas da natureza': 6,
+  'América do Sul,Atrações turísticas': 5,
+  'Atrações turísticas,Santuários e destinos religiosos,Ásia': 13,
+  'Países,África': 19,
+  'América Central,Atrações turísticas': 1,
+  'Europa,Praias paradisíacas': 3,
+  'Maravilhas da natureza': 1,
+  'América Central,Países': 23,
+  'Arquitetura,Europa,Monumentos históricos': 1,
+  'Arqueologia e cultura antiga,Europa': 7,
+  'Atrações turísticas,Europa,Monumentos históricos': 6,
+  'América do Sul,Países': 10,
+  'América do Norte,Destinos de neve': 5,
+  'América do Sul,Arquitetura': 4,
+  'Oceania,Países': 6,
+  'Arqueologia e cultura antiga,Atrações turísticas,Ásia': 3,
+  'Atrações turísticas,Praias paradisíacas,Ásia': 1,
+  'América do Sul,Destinos de neve': 1,
+  'América do Sul,Atrações turísticas,Santuários e destinos religiosos': 2,
+  'América do Norte,Atrações turísticas,Santuários e destinos religiosos': 2,
+  'Arquitetura,Atrações turísticas,Europa,Santuários e destinos religiosos': 5,
+  'Maravilhas da natureza,Ásia': 5,
+  'América do Norte,Atrações turísticas,Praias paradisíacas': 2,
+  'África': 1,
+  'América do Norte,Arqueologia e cultura antiga': 6,
+  'Arquitetura,Atrações turísticas,Europa,Monumentos históricos': 6,
+  'América do Norte,Países': 2,
+  'América Central,Maravilhas da natureza': 4,
+  'Arqueologia e cultura antiga,Atrações turísticas,Europa,Maravilhas da natureza,Monumentos históricos': 1,
+  'América do Norte,Atrações turísticas,Monumentos históricos': 5,
+  'América do Norte,Arquitetura,Atrações turísticas,Monumentos históricos': 1,
+  'América do Sul,Arqueologia e cultura antiga,Atrações turísticas': 3,
+  'Arquitetura,Atrações turísticas,Europa': 5,
+  'América do Norte,Arquitetura,Atrações turísticas': 4,
+  'Atrações turísticas,Castelos e palácios,Europa': 11,
+  'Atrações turísticas,Castelos e palácios,Ásia': 3,
+  'Arquitetura,Atrações turísticas,Castelos e palácios,Europa': 4,
+  'Castelos e palácios,Europa,Jardins espetaculares': 1,
+  Europa: 3,
+  'Atrações turísticas,Maravilhas da natureza,África': 3,
+  'América do Sul,Atrações turísticas,Maravilhas da natureza': 3,
+  'América do Norte,Maravilhas da natureza': 4,
+  'Arquitetura,Atrações turísticas,Europa,Monumentos históricos,Santuários e destinos religiosos': 1,
+  'América do Sul,Arquitetura,Santuários e destinos religiosos': 1,
+  'América Central,Atrações turísticas,Santuários e destinos religiosos': 3,
+  'Atrações turísticas,Europa': 5,
+  'América Central,Praias paradisíacas': 2,
+  'Destinos de neve,Europa': 7,
+  'América do Sul,Arqueologia e cultura antiga': 2,
+  'América do Norte,Arqueologia e cultura antiga,Atrações turísticas': 2,
+  'Arqueologia e cultura antiga,Ásia': 3,
+  'Atrações turísticas,Monumentos históricos,Ásia': 2,
+  'Atrações turísticas,Europa,Maravilhas da natureza,Praias paradisíacas': 2,
+  'Arqueologia e cultura antiga,Atrações turísticas,Europa': 2,
+  'Atrações turísticas,Ásia': 1,
+  'América Central,Arqueologia e cultura antiga': 7,
+  'Atrações turísticas,Europa,Monumentos históricos,Praias paradisíacas': 2,
+  'Maravilhas da natureza,África': 8,
+  'América do Sul,Arquitetura,Atrações turísticas': 5,
+  'América do Sul,Praias paradisíacas': 8,
+  'Europa,Maravilhas da natureza': 3,
+  'América do Sul,Atrações turísticas,Maravilhas da natureza,Praias paradisíacas': 2,
+  'América do Norte,Arquitetura,Monumentos históricos': 1,
+  'América do Norte,Atrações turísticas,Maravilhas da natureza': 7,
+  'Maravilhas da natureza,Oceania': 2,
+  'América do Norte,Atrações turísticas': 3,
+  'Atrações turísticas,Oceania,Praias paradisíacas': 1,
+  'América do Sul,Arqueologia e cultura antiga,Atrações turísticas,Maravilhas da natureza': 2,
+  'Europa,Jardins espetaculares': 3,
+  'Jardins espetaculares,Ásia': 1,
+  'América do Norte,Jardins espetaculares': 2,
+  'América do Sul,Jardins espetaculares': 1,
+  'Atrações turísticas,Castelos e palácios,Europa,Monumentos históricos': 2,
+  'Atrações turísticas,África': 1,
+  'Países,Praias paradisíacas,Ásia': 1,
+  'Europa,Países,Praias paradisíacas': 1,
+  'Europa,Monumentos históricos': 1,
+  'América do Sul,Arquitetura,Atrações turísticas,Monumentos históricos': 2,
+  'América do Norte,Monumentos históricos': 1,
+  'América do Sul,Atrações turísticas,Monumentos históricos': 4,
+  'Destinos de neve,Ásia': 1,
+  'América do Sul,Arquitetura,Castelos e palácios': 6,
+  'América do Norte,Arquitetura,Atrações turísticas,Castelos e palácios': 1,
+  'América do Sul,Arquitetura,Atrações turísticas,Castelos e palácios': 1,
+  'Castelos e palácios,Europa': 1,
+  'Atrações turísticas,Castelos e palácios,Santuários e destinos religiosos,Ásia': 2,
+  'América do Sul,Castelos e palácios': 2,
+  'América do Sul,Arquitetura,Atrações turísticas,Praias paradisíacas': 1,
+  'Atrações turísticas,Castelos e palácios,Europa,Jardins espetaculares': 1,
+  'Arquitetura,Atrações turísticas,Ásia': 1,
+  'Atrações turísticas,Maravilhas da natureza,Oceania,Praias paradisíacas': 1,
+  'Atrações turísticas,Europa,Pontes': 1,
+  'Europa,Pontes': 12,
+  'América do Sul,Pontes': 10,
+  'América do Norte,Pontes': 2,
+  'Arquitetura,Atrações turísticas,Europa,Pontes': 1,
+  'América Central,Pontes': 1,
+  'Atrações turísticas,Europa,Maravilhas da natureza': 1,
+  'América do Norte': 1,
+  'América do Sul': 1,
+  'América do Sul,Atrações turísticas,Castelos e palácios': 1,
+  'América Central,Atrações turísticas,Praias paradisíacas': 1,
+  'América do Norte,Arqueologia e cultura antiga,Santuários e destinos religiosos': 1,
+  'América Central,Arqueologia e cultura antiga,Atrações turísticas': 1,
+  'América do Norte,Arqueologia e cultura antiga,Atrações turísticas,Praias paradisíacas': 1,
+  'Monumentos históricos,África': 1,
+  'América Central,Atrações turísticas,Maravilhas da natureza': 1,
+  'América do Sul,Arquitetura,Pontes': 1,
+  'Atrações turísticas,Praias paradisíacas,África': 1,
+  'Atrações turísticas,Oceania': 1 }
+Template Type:!import 'buffet'
+
+---
+AppId: com.endlessm.water_and_sanitation.en
+Number of Categories: 7
+Category/Article data: 
+{ Waste: 14,
+  'Sanitation & Sterilization': 29,
+  'Water Related Diseases': 31,
+  'Water Supply & Treatment': 18,
+  'Sanitation & Sterilization,Waste': 5,
+  'Sanitation & Sterilization,Water Supply & Treatment': 5,
+  'Sanitation & Sterilization,Water Related Diseases': 1 }
+Template Type:!import 'A'
+
+---
+AppId: com.endlessm.water_and_sanitation.es
+Number of Categories: 11
+Category/Article data: 
+{ 'Desechos,Saneamiento': 4,
+  'Agua Potable': 18,
+  Saneamiento: 22,
+  Enfermedades: 31,
+  Desechos: 14,
+  'Esterilización': 6,
+  'Agua Potable,Esterilización': 4,
+  'Agua Potable,Saneamiento': 1,
+  'Desechos,Esterilización': 1,
+  'Esterilización,Saneamiento': 5,
+  'Enfermedades,Saneamiento': 1 }
+Template Type:!import 'A'
+
+---
+AppId: pt
+Number of Categories: 6
+Category/Article data: 
+{ 'Saúde para você': 86,
+  'Fatores de risco e prevenção': 16,
+  'Nutrição e dietas': 20,
+  'Bem-estar': 17,
+  'Fique ligado no SUS': 11,
+  Vacinas: 15 }
+Template Type:!import B
